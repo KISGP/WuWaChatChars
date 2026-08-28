@@ -1,0 +1,16 @@
+{
+  "name": {
+    "en": "Daniya",
+    "cn": "达妮娅"
+  },
+  "description": {
+    "en": "",
+    "cn": ""
+  },
+  "emoticons": [
+    { "name": "happy", "description": "达妮娅捂嘴笑", "file": "emoticons/T_ChatEmo_Daniya_01.png" },
+    { "name": "wish", "description": "达妮娅对蛋糕许愿", "file": "emoticons/T_ChatEmo_Daniya_02.png" },
+    { "name": "sleepy", "description": "达妮娅趴在桌子上睡觉", "file": "emoticons/T_ChatEmo_Daniya_03.png" },
+    { "name": "disappointed", "description": "达妮娅不满意地嘟嘴", "file": "emoticons/T_ChatEmo_Daniya_04.png" }
+  ]
+}
