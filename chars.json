@@ -1,17 +1,264 @@
 [
-   "Cartethyia",
-   "Aemeath",
-   "Daniya",
-   "feixue",
-   "jinxi",
-   "shorekeeper",
-   "Linnae",
-   "Lupa",
-   "moning",
-   "Sigrika",
-   "Zani",
-   "Augusta",
-   "Xiakong",
-   "Fuluoluo",
-   "Younuo"
+  {
+    "name": {
+      "en": "aemeath",
+      "cn": "爱弥斯"
+    },
+    "description": {
+      "en": "",
+      "cn": "学位证锐意补办中……Ow<"
+    },
+    "id": "Aemeath",
+    "updateAt": "2026-08-26T21:23:34+08:00",
+    "prompt": "Aemeath/prompt.md",
+    "avatar": "Aemeath/avatar.png",
+    "cardBg": "Aemeath/cardBg.png",
+    "tts": "Aemeath/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "augusta",
+      "cn": "奥古斯塔"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Augusta",
+    "updateAt": "2026-08-27T00:50:12+08:00",
+    "prompt": "Augusta/prompt.md",
+    "avatar": "Augusta/avatar.png",
+    "cardBg": "Augusta/cardBg.png",
+    "tts": "Augusta/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "Cartethyia",
+      "cn": "卡提希娅"
+    },
+    "description": {
+      "en": "",
+      "cn": "修行中"
+    },
+    "id": "Cartethyia",
+    "updateAt": "2026-08-26T21:23:34+08:00",
+    "prompt": "Cartethyia/prompt.md",
+    "avatar": "Cartethyia/avatar.png",
+    "cardBg": "Cartethyia/cardBg.png",
+    "tts": "Cartethyia/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "Daniya",
+      "cn": "达妮娅"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "happy",
+        "description": "达妮娅捂嘴笑",
+        "file": "emoticons/T_ChatEmo_Daniya_01.png"
+      },
+      {
+        "name": "wish",
+        "description": "达妮娅对蛋糕许愿",
+        "file": "emoticons/T_ChatEmo_Daniya_02.png"
+      },
+      {
+        "name": "sleepy",
+        "description": "达妮娅趴在桌子上睡觉",
+        "file": "emoticons/T_ChatEmo_Daniya_03.png"
+      },
+      {
+        "name": "disappointed",
+        "description": "达妮娅不满意地嘟嘴",
+        "file": "emoticons/T_ChatEmo_Daniya_04.png"
+      }
+    ],
+    "id": "Daniya",
+    "updateAt": "2026-08-29T02:02:24+08:00",
+    "prompt": "Daniya/prompt.md",
+    "avatar": "Daniya/avatar.png",
+    "cardBg": "Daniya/cardBg.png",
+    "tts": "Daniya/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "feixue",
+      "cn": "绯雪"
+    },
+    "description": {
+      "en": "",
+      "cn": "学位证锐意补办中……Ow"
+    },
+    "id": "feixue",
+    "updateAt": "2026-08-26T21:23:34+08:00",
+    "prompt": "feixue/prompt.md",
+    "avatar": "feixue/avatar.png",
+    "cardBg": "feixue/cardBg.png",
+    "tts": "feixue/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "Fuluoluo",
+      "cn": "弗洛洛"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Fuluoluo",
+    "updateAt": "2026-08-27T00:50:12+08:00",
+    "prompt": "Fuluoluo/prompt.md",
+    "avatar": "Fuluoluo/avatar.png",
+    "cardBg": "Fuluoluo/cardBg.png",
+    "tts": "Fuluoluo/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "jinxi",
+      "cn": "今汐"
+    },
+    "description": {
+      "en": "",
+      "cn": "学位证锐意补办中……Ow"
+    },
+    "id": "jinxi",
+    "updateAt": "2026-08-26T21:23:34+08:00",
+    "prompt": "jinxi/prompt.md",
+    "avatar": "jinxi/avatar.png",
+    "cardBg": "jinxi/cardBg.png",
+    "tts": "jinxi/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "linnae",
+      "cn": "琳奈"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Linnae",
+    "updateAt": "2026-08-26T21:23:34+08:00",
+    "prompt": "Linnae/prompt.md",
+    "avatar": "Linnae/avatar.png",
+    "cardBg": "Linnae/cardBg.png",
+    "tts": "Linnae/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "lupa",
+      "cn": "露帕"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Lupa",
+    "updateAt": "2026-08-26T21:23:34+08:00",
+    "prompt": "Lupa/prompt.md",
+    "avatar": "Lupa/avatar.png",
+    "cardBg": "Lupa/cardBg.png",
+    "tts": "Lupa/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "moning",
+      "cn": "莫宁"
+    },
+    "description": {
+      "en": "",
+      "cn": "学位证锐意补办中……Ow"
+    },
+    "id": "moning",
+    "updateAt": "2026-08-26T21:23:34+08:00",
+    "prompt": "moning/prompt.md",
+    "avatar": "moning/avatar.png",
+    "cardBg": "moning/cardBg.png",
+    "tts": "moning/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "shorekeeper",
+      "cn": "守岸人"
+    },
+    "description": {
+      "en": "",
+      "cn": "学位证锐意补办中……Ow"
+    },
+    "id": "shorekeeper",
+    "updateAt": "2026-08-26T21:23:34+08:00",
+    "prompt": "shorekeeper/prompt.md",
+    "avatar": "shorekeeper/avatar.png",
+    "cardBg": "shorekeeper/cardBg.png",
+    "tts": "shorekeeper/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "sigrika",
+      "cn": "西格莉卡"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Sigrika",
+    "updateAt": "2026-08-26T21:23:34+08:00",
+    "prompt": "Sigrika/prompt.md",
+    "avatar": "Sigrika/avatar.png",
+    "cardBg": "Sigrika/cardBg.png",
+    "tts": "Sigrika/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "Xiakong",
+      "cn": "夏空"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Xiakong",
+    "updateAt": "2026-08-27T00:50:12+08:00",
+    "prompt": "Xiakong/prompt.md",
+    "avatar": "Xiakong/avatar.png",
+    "cardBg": "Xiakong/cardBg.png",
+    "tts": "Xiakong/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "Younuo",
+      "cn": "尤诺"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Younuo",
+    "updateAt": "2026-08-27T00:50:12+08:00",
+    "prompt": "Younuo/prompt.md",
+    "avatar": "Younuo/avatar.png",
+    "cardBg": "Younuo/cardBg.png",
+    "tts": "Younuo/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "zani",
+      "cn": "赞妮"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Zani",
+    "updateAt": "2026-08-26T21:23:34+08:00",
+    "prompt": "Zani/prompt.md",
+    "avatar": "Zani/avatar.png",
+    "cardBg": "Zani/cardBg.png",
+    "tts": "Zani/TTS.wav"
+  }
 ]
