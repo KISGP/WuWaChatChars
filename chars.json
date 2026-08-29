@@ -17,7 +17,7 @@
   },
   {
     "name": {
-      "en": "augusta",
+      "en": "Augusta",
       "cn": "奥古斯塔"
     },
     "description": {
@@ -25,11 +25,26 @@
       "cn": ""
     },
     "id": "Augusta",
-    "updateAt": "2026-08-27T00:50:12+08:00",
+    "updateAt": "2026-08-29T13:07:10+08:00",
     "prompt": "Augusta/prompt.md",
     "avatar": "Augusta/avatar.png",
     "cardBg": "Augusta/cardBg.png",
     "tts": "Augusta/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "Buling",
+      "cn": "卜灵"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Buling",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Buling/prompt.md",
+    "avatar": "Buling/avatar.png",
+    "cardBg": "Buling/cardBg.png"
   },
   {
     "name": {
@@ -46,6 +61,37 @@
     "avatar": "Cartethyia/avatar.png",
     "cardBg": "Cartethyia/cardBg.png",
     "tts": "Cartethyia/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "Chisa",
+      "cn": "千咲"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Chisa",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Chisa/prompt.md",
+    "avatar": "Chisa/avatar.png",
+    "cardBg": "Chisa/cardBg.png"
+  },
+  {
+    "name": {
+      "en": "Ciaccona",
+      "cn": "夏空"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Ciaccona",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Ciaccona/prompt.md",
+    "avatar": "Ciaccona/avatar.png",
+    "cardBg": "Ciaccona/cardBg.png",
+    "tts": "Ciaccona/TTS.wav"
   },
   {
     "name": {
@@ -87,67 +133,66 @@
   },
   {
     "name": {
-      "en": "feixue",
+      "en": "Galbrena",
+      "cn": "嘉贝莉娜"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Galbrena",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Galbrena/prompt.md",
+    "avatar": "Galbrena/avatar.png",
+    "cardBg": "Galbrena/cardBg.png"
+  },
+  {
+    "name": {
+      "en": "Hiyuki",
       "cn": "绯雪"
     },
     "description": {
       "en": "",
-      "cn": "学位证锐意补办中……Ow"
+      "cn": ""
     },
-    "id": "feixue",
-    "updateAt": "2026-08-26T21:23:34+08:00",
-    "prompt": "feixue/prompt.md",
-    "avatar": "feixue/avatar.png",
-    "cardBg": "feixue/cardBg.png",
-    "tts": "feixue/TTS.wav"
+    "id": "Hiyuki",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Hiyuki/prompt.md",
+    "avatar": "Hiyuki/avatar.png",
+    "cardBg": "Hiyuki/cardBg.png",
+    "tts": "Hiyuki/TTS.wav"
   },
   {
     "name": {
-      "en": "Fuluoluo",
-      "cn": "弗洛洛"
+      "en": "Iuno",
+      "cn": "尤诺"
     },
     "description": {
       "en": "",
       "cn": ""
     },
-    "id": "Fuluoluo",
-    "updateAt": "2026-08-27T00:50:12+08:00",
-    "prompt": "Fuluoluo/prompt.md",
-    "avatar": "Fuluoluo/avatar.png",
-    "cardBg": "Fuluoluo/cardBg.png",
-    "tts": "Fuluoluo/TTS.wav"
+    "id": "Iuno",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Iuno/prompt.md",
+    "avatar": "Iuno/avatar.png",
+    "cardBg": "Iuno/cardBg.png",
+    "tts": "Iuno/TTS.wav"
   },
   {
     "name": {
-      "en": "jinxi",
+      "en": "Jinxi",
       "cn": "今汐"
     },
     "description": {
       "en": "",
-      "cn": "学位证锐意补办中……Ow"
+      "cn": ""
     },
     "id": "jinxi",
-    "updateAt": "2026-08-26T21:23:34+08:00",
+    "updateAt": "2026-08-29T13:07:10+08:00",
     "prompt": "jinxi/prompt.md",
     "avatar": "jinxi/avatar.png",
     "cardBg": "jinxi/cardBg.png",
     "tts": "jinxi/TTS.wav"
-  },
-  {
-    "name": {
-      "en": "linnae",
-      "cn": "琳奈"
-    },
-    "description": {
-      "en": "",
-      "cn": ""
-    },
-    "id": "Linnae",
-    "updateAt": "2026-08-26T21:23:34+08:00",
-    "prompt": "Linnae/prompt.md",
-    "avatar": "Linnae/avatar.png",
-    "cardBg": "Linnae/cardBg.png",
-    "tts": "Linnae/TTS.wav"
   },
   {
     "name": {
@@ -167,31 +212,93 @@
   },
   {
     "name": {
-      "en": "moning",
+      "en": "Luxi",
+      "cn": "露西"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Luxi",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Luxi/prompt.md",
+    "avatar": "Luxi/avatar.png",
+    "cardBg": "Luxi/cardBg.png"
+  },
+  {
+    "name": {
+      "en": "Lynae",
+      "cn": "琳奈"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Lynae",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Lynae/prompt.md",
+    "avatar": "Lynae/avatar.png",
+    "cardBg": "Lynae/cardBg.png",
+    "tts": "Lynae/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "Mornye",
       "cn": "莫宁"
     },
     "description": {
       "en": "",
-      "cn": "学位证锐意补办中……Ow"
+      "cn": ""
     },
-    "id": "moning",
-    "updateAt": "2026-08-26T21:23:34+08:00",
-    "prompt": "moning/prompt.md",
-    "avatar": "moning/avatar.png",
-    "cardBg": "moning/cardBg.png",
-    "tts": "moning/TTS.wav"
+    "id": "Mornye",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Mornye/prompt.md",
+    "avatar": "Mornye/avatar.png",
+    "cardBg": "Mornye/cardBg.png",
+    "tts": "Mornye/TTS.wav"
   },
   {
     "name": {
-      "en": "shorekeeper",
+      "en": "Phrolova",
+      "cn": "弗洛洛"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Phrolova",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Phrolova/prompt.md",
+    "avatar": "Phrolova/avatar.png",
+    "cardBg": "Phrolova/cardBg.png",
+    "tts": "Phrolova/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "Qingxiao",
+      "cn": "清宵"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Qingxiao",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Qingxiao/prompt.md",
+    "avatar": "Qingxiao/avatar.png",
+    "cardBg": "Qingxiao/cardBg.png"
+  },
+  {
+    "name": {
+      "en": "Shorekeeper",
       "cn": "守岸人"
     },
     "description": {
       "en": "",
-      "cn": "学位证锐意补办中……Ow"
+      "cn": ""
     },
     "id": "shorekeeper",
-    "updateAt": "2026-08-26T21:23:34+08:00",
+    "updateAt": "2026-08-29T13:07:10+08:00",
     "prompt": "shorekeeper/prompt.md",
     "avatar": "shorekeeper/avatar.png",
     "cardBg": "shorekeeper/cardBg.png",
@@ -199,7 +306,7 @@
   },
   {
     "name": {
-      "en": "sigrika",
+      "en": "Sigrika",
       "cn": "西格莉卡"
     },
     "description": {
@@ -207,7 +314,7 @@
       "cn": ""
     },
     "id": "Sigrika",
-    "updateAt": "2026-08-26T21:23:34+08:00",
+    "updateAt": "2026-08-29T13:07:10+08:00",
     "prompt": "Sigrika/prompt.md",
     "avatar": "Sigrika/avatar.png",
     "cardBg": "Sigrika/cardBg.png",
@@ -215,35 +322,18 @@
   },
   {
     "name": {
-      "en": "Xiakong",
-      "cn": "夏空"
+      "en": "Suisui",
+      "cn": "穗穗"
     },
     "description": {
       "en": "",
       "cn": ""
     },
-    "id": "Xiakong",
-    "updateAt": "2026-08-27T00:50:12+08:00",
-    "prompt": "Xiakong/prompt.md",
-    "avatar": "Xiakong/avatar.png",
-    "cardBg": "Xiakong/cardBg.png",
-    "tts": "Xiakong/TTS.wav"
-  },
-  {
-    "name": {
-      "en": "Younuo",
-      "cn": "尤诺"
-    },
-    "description": {
-      "en": "",
-      "cn": ""
-    },
-    "id": "Younuo",
-    "updateAt": "2026-08-27T00:50:12+08:00",
-    "prompt": "Younuo/prompt.md",
-    "avatar": "Younuo/avatar.png",
-    "cardBg": "Younuo/cardBg.png",
-    "tts": "Younuo/TTS.wav"
+    "id": "Suisui",
+    "updateAt": "2026-08-29T13:07:10+08:00",
+    "prompt": "Suisui/prompt.md",
+    "avatar": "Suisui/avatar.png",
+    "cardBg": "Suisui/cardBg.png"
   },
   {
     "name": {
