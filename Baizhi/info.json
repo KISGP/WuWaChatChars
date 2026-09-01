@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Baizhi",
+    "cn": "白芷"
+  },
+  "description": {
+    "en": "",
+    "cn": ""
+  },
+  "emoticons": [
+    {
+      "name": "T_ChatEmo_B_01",
+      "description": "用于匹配：挨打/无奈/物理降噪/默默承受；触发场景：被反驳、被打击、遇到离谱话被“打脸”时；表情描述：图中角色闭眼挨打且带有速度线的淡定感。",
+      "file": "emoticons/T_ChatEmo_B_01.png"
+    },
+    {
+      "name": "T_ChatEmo_B_02",
+      "description": "用于匹配：无语/无奈/发呆/冷场/宕机/看淡一切；触发场景：听到离谱话、无话可说、被迫营业时；表情描述：图中角色空洞眼神搭配脸颊红晕的平静放空感。",
+      "file": "emoticons/T_ChatEmo_B_02.png"
+    },
+    {
+      "name": "T_ChatEmo_B_03",
+      "description": "开心/满足/得意/安逸；触发场景：收到夸奖、找到宝藏、遇到喜欢的事物时；表情描述：图中角色眯眼微笑、抱着圆球物品的可爱满足状态。",
+      "file": "emoticons/T_ChatEmo_B_03.png"
+    },
+    {
+      "name": "T_ChatEmo_B_04",
+      "description": "用于匹配：惊讶/恍然大悟/震惊/提醒；触发场景：突然想到关键点、听到意外消息、需要引起注意时；表情描述：图中角色睁大眼睛搭配黄色感叹号的吃惊状态。",
+      "file": "emoticons/T_ChatEmo_B_04.png"
+    },
+    {
+      "name": "T_ChatEmo_B_05",
+      "description": "用于匹配：委屈/无辜/眼巴巴/可怜；触发场景：想要求助、被冷落、做错事等待原谅时；表情描述：图中角色撇嘴看着对方、眼巴巴的可怜状态。",
+      "file": "emoticons/T_ChatEmo_B_05.png"
+    },
+    {
+      "name": "T_ChatEmo_B_06",
+      "description": "用于匹配：生气/暴怒/血压升高/极度无语；触发场景：被气到无语、遇到极其离谱的事情、极度烦躁时；表情描述：图中角色黑脸加周围飘着红色怒火符号的暴躁状态。",
+      "file": "emoticons/T_ChatEmo_B_06.png"
+    },
+    {
+      "name": "T_ChatEmo_B_07",
+      "description": "用于匹配：跑路/开溜/撤退/逃离/光速逃逸/惹不起躲得起；触发场景：遇到麻烦、想逃避责任、不想上班上学、遇到社死场面或极度想赶紧离开时；表情描述：图中角色瞬间冲刺溜走、只留下速度线的慌张跑路状态。",
+      "file": "emoticons/T_ChatEmo_B_07.png"
+    },
+    {
+      "name": "T_ChatEmo_B_08",
+      "description": "用于匹配：刷手机/围观/吃瓜/发呆/放空；触发场景：默默看群里聊天、玩手机摸鱼、旁观热闹时；表情描述：图中角色拿着手机面无表情看戏的平静状态。",
+      "file": "emoticons/T_ChatEmo_B_08.png"
+    }
+  ]
+}

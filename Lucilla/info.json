@@ -1,0 +1,32 @@
+{
+  "name": {
+    "en": "Lucilla",
+    "cn": "洛瑟菈"
+  },
+  "description": {
+    "en": "",
+    "cn": ""
+  },
+  "emoticons": [
+    {
+      "name": "T_ChatEmo_Luosela_01",
+      "description": "用于匹配：开拍/导演/记录/准备/宣布开始；触发场景：准备执行新任务、想主导话题、或者记录某个重要时刻时，表达手拿黑色场记板、眼神自信且带着浅笑的专注状态。",
+      "file": "emoticons/T_ChatEmo_Luosela_01.png"
+    },
+    {
+      "name": "T_ChatEmo_Luosela_02",
+      "description": "用于匹配：吃瓜/看戏/观影/审视/装酷；触发场景：戴上3D眼镜准备围观群聊好戏、看剧，或者想表达“我准备好了，静静看你们表演”时，表达双手抱胸靠着椅子、表情淡定的悠闲吃瓜状态。",
+      "file": "emoticons/T_ChatEmo_Luosela_02.png"
+    },
+    {
+      "name": "T_ChatEmo_Luosela_03",
+      "description": "用于匹配：采访/主持/发言/开麦/演讲；触发场景：需要发表重要讲话、主持活动、开麦科普、或者准备输出自己的观点时，表达站在讲台前手持麦克风、眼神认真的专注发言状态。",
+      "file": "emoticons/T_ChatEmo_Luosela_03.png"
+    },
+    {
+      "name": "T_ChatEmo_Luosela_04",
+      "description": "用于匹配：帅气/致敬/自信/装酷/撩人/摆拍；触发场景：完成任务想炫耀一下，或者刻意摆出帅气姿势打招呼、表达胜券在握的自信时，表达单手扶帽檐单眼Wink、嘴角上扬的迷人魅力状态。",
+      "file": "emoticons/T_ChatEmo_Luosela_04.png"
+    }
+  ]
+}

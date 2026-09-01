@@ -1,10 +1,32 @@
 {
-    "name": {
-        "en": "Shorekeeper",
-        "cn": "守岸人"
+  "name": {
+    "en": "Shorekeeper",
+    "cn": "守岸人"
+  },
+  "description": {
+    "en": "",
+    "cn": ""
+  },
+  "emoticons": [
+    {
+      "name": "T_ChatEmo_S_01",
+      "description": "用于匹配：弹琴/听歌/陶醉/享受/悠然自得；触发场景：分享音乐、沉浸在美好的氛围中、或者表达自己非常闲适愉悦时，表达坐在钢琴前闭眼微笑弹奏，头顶环绕着大蝴蝶和音符的陶醉状态。",
+      "file": "emoticons/T_ChatEmo_S_01.png"
     },
-    "description": {
-        "en": "",
-        "cn": ""
+    {
+      "name": "T_ChatEmo_S_02",
+      "description": "用于匹配：冷眼旁观/淡定/高冷/等待/装酷；触发场景：不打算插话、摆出淡然的态度应对离谱事件、或者静静坐着展示自己时，表达头戴星空兜帽、面无表情平静注视前方的淡定状态。",
+      "file": "emoticons/T_ChatEmo_S_02.png"
+    },
+    {
+      "name": "T_ChatEmo_S_03",
+      "description": "用于匹配：送花/害羞/温柔/浪漫/收到礼物；触发场景：表达爱意、感谢、送人礼物，或者收到喜欢的东西展现温柔时，表达双手捧着一束粉色小花，脸颊微红、低头浅笑的害羞温柔状态。",
+      "file": "emoticons/T_ChatEmo_S_03.png"
+    },
+    {
+      "name": "T_ChatEmo_S_04",
+      "description": "用于匹配：展示/施法/指引/梦幻/召唤；触发场景：想展示美丽的魔法效果、给对方看手中的“宝贝”、或者表达温柔治愈的氛围时，表达伸手向前、微笑着看着手心里盘旋的蓝色发光蝴蝶的梦幻状态。",
+      "file": "emoticons/T_ChatEmo_S_04.png"
     }
+  ]
 }

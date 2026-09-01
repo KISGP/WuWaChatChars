@@ -8,9 +8,25 @@
     "cn": ""
   },
   "emoticons": [
-    { "name": "happy", "description": "达妮娅捂嘴笑", "file": "emoticons/T_ChatEmo_Daniya_01.png" },
-    { "name": "wish", "description": "达妮娅对蛋糕许愿", "file": "emoticons/T_ChatEmo_Daniya_02.png" },
-    { "name": "sleepy", "description": "达妮娅趴在桌子上睡觉", "file": "emoticons/T_ChatEmo_Daniya_03.png" },
-    { "name": "disappointed", "description": "达妮娅不满意地嘟嘴", "file": "emoticons/T_ChatEmo_Daniya_04.png" }
+    {
+      "name": "T_ChatEmo_Daniya_01",
+      "description": "用于匹配：捂嘴笑/偷笑/窃喜/憋笑/娇羞/看戏；触发场景：听到好笑的事情想保持优雅、看到别人出糗暗自开心、或者想表达一种温婉、乖巧又带点小狡黠的偷笑时，用戴着红色手套的手捂住嘴巴，眼睛弯成月牙的俏皮状态。",
+      "file": "emoticons/T_ChatEmo_Daniya_01.png"
+    },
+    {
+      "name": "T_ChatEmo_Daniya_02",
+      "description": "用于匹配：许愿/生日/庆祝/仪式感/期待；触发场景：庆祝生日吹蜡烛、默默许下心愿、或者充满仪式感地享受温馨时刻时，闭眼低头注视着桌上插着蜡烛的小蛋糕的安静状态。",
+      "file": "emoticons/T_ChatEmo_Daniya_02.png"
+    },
+    {
+      "name": "T_ChatEmo_Daniya_03",
+      "description": "用于匹配：睡觉/困了/休息/累趴/摆烂；触发场景：熬夜困得不行、工作学习累瘫了、或者只想倒头呼呼大睡时，趴在桌子上闭着眼呼呼大睡（旁边伴有Z符号）的沉睡状态。",
+      "file": "emoticons/T_ChatEmo_Daniya_03.png"
+    },
+    {
+      "name": "T_ChatEmo_Daniya_04",
+      "description": "用于匹配：怀疑/冷漠/审视/不耐烦/无语；触发场景：面对离谱操作、静静看戏、或者想表达“你认真的吗”时；表情描述：图中角色半垂着眼皮、单手搭在胳膊上面无表情的审视状态。",
+      "file": "emoticons/T_ChatEmo_Daniya_04.png"
+    }
   ]
 }

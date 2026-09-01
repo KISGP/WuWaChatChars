@@ -1,0 +1,77 @@
+{
+  "name": {
+    "en": "Yangyang",
+    "cn": "秧秧"
+  },
+  "description": {
+    "en": "",
+    "cn": ""
+  },
+  "emoticons": [
+    {
+      "name": "T_ChatEmo_A_01",
+      "description": "用于匹配：期待/乖巧/仰望/求夸奖/装无辜；触发场景：想要被夸、乖乖等投喂，或者眼巴巴看着对方操作时，表达双手托着下巴，大眼睛忽闪忽闪向上看，嘴角微张的期待状态。",
+      "file": "emoticons/T_ChatEmo_A_01.png"
+    },
+    {
+      "name": "T_ChatEmo_A_02",
+      "description": "用于匹配：喝饮料/惬意/摸鱼/悠闲看戏/放松；触发场景：休息时间偷偷摸鱼、喝着奶茶看群友吵架，或者悠闲享受下午茶时，表达捧着红色饮料杯吸着喝，旁边有颗小星星的惬意状态。",
+      "file": "emoticons/T_ChatEmo_A_02.png"
+    },
+    {
+      "name": "T_ChatEmo_A_03",
+      "description": "用于匹配：超喜欢/表白/赞同/狂送心；触发场景：看到极其喜欢的东西、强烈赞同对方、或者疯狂表达爱意时，表达双手捧着大红心直勾勾盯着对方的告白状态。",
+      "file": "emoticons/T_ChatEmo_A_03.png"
+    },
+    {
+      "name": "T_ChatEmo_A_04",
+      "description": "用于匹配：点赞/真棒/鼓励/夸奖/赞同；触发场景：看到优秀作品、赞同对方观点、或者给人打气加油时，表达闭眼张嘴大笑，用力竖起大拇指的赞赏状态。",
+      "file": "emoticons/T_ChatEmo_A_04.png"
+    },
+    {
+      "name": "T_ChatEmo_A_05",
+      "description": "用于匹配：无奈/叹气/认命/没辙/极度无语；触发场景：面对无法改变的糟糕情况、遇到极其离谱且不听劝的人、或者只能默默接受残酷现实时，表达半闭着眼睛嘴角下撇，趴在桌面上一副拿你没办法的叹息认命状态。",
+      "file": "emoticons/T_ChatEmo_A_05.png"
+    },
+    {
+      "name": "T_ChatEmo_A_06",
+      "description": "用于匹配：委屈/大哭/感动/求安慰/破防；触发场景：被欺负了、看到极其感人的内容、或者极度委屈想要哭诉时，表达双手在胸前攥着小拳头、眼眶含满大颗泪珠、嘴巴微张的哭泣求安慰状态。",
+      "file": "emoticons/T_ChatEmo_A_06.png"
+    },
+    {
+      "name": "T_ChatEmo_A_07",
+      "description": "用于匹配：撒娇/害羞/急眼/可爱/跺脚；触发场景：被夸奖了害羞、想要东西撒娇、或者遇到小麻烦急得不行时，表达闭着眼睛、脸颊通红、双手在胸前抓握的焦急可爱状态。",
+      "file": "emoticons/T_ChatEmo_A_07.png"
+    },
+    {
+      "name": "T_ChatEmo_A_08",
+      "description": "用于匹配：安详/躺平/灵魂出窍/累到升华/休息；触发场景：极度劳累后彻底放松、表示“自己已经升天了”，或者安心躺平享受时，表达闭眼微张嘴、双手交叠胸前，头顶光环旁边跟着小幽灵的安详状态。",
+      "file": "emoticons/T_ChatEmo_A_08.png"
+    },
+    {
+      "name": "T_ChatEmo_L_02",
+      "description": "用于匹配：发红包/送礼物/领福利/庆祝/开心；触发场景：节假日发红包、表达请客送礼、或者收到好处时，表达两只手手提着红色礼盒/红包，笑容灿烂的开心状态。",
+      "file": "emoticons/T_ChatEmo_L_02.png"
+    },
+    {
+      "name": "T_ChatEmo_Xuanling_01",
+      "description": "用于匹配：表白/示爱/极度喜欢/送心；触发场景：表达强烈的喜爱、感谢，或者对喜欢的人事物直接“贴脸开大”时，表达双手捧着巨大的红心，眼睛闪闪发亮的看着对方的状态。",
+      "file": "emoticons/T_ChatEmo_Xuanling_01.png"
+    },
+    {
+      "name": "T_ChatEmo_Xuanling_02",
+      "description": "用于匹配：品尝美味/喝汤/喝饮品/享受美食/惬意；触发场景：正在悠闲地喝汤、喝热饮，或者尝到好吃的东西时，表达闭眼微笑着拿着长柄勺子凑到嘴边，脸颊微红且周围有小花飘落的满足享受状态。",
+      "file": "emoticons/T_ChatEmo_Xuanling_02.png"
+    },
+    {
+      "name": "T_ChatEmo_Xuanling_03",
+      "description": "用于匹配：大哭/崩溃/极度委屈/求哄；触发场景：受到极大打击、找不东西、或者情绪彻底破防时，表达双手握拳在胸前，眼睛像瀑布一样流下大颗泪珠的极度悲伤状态。",
+      "file": "emoticons/T_ChatEmo_Xuanling_03.png"
+    },
+    {
+      "name": "T_ChatEmo_Xuanling_04",
+      "description": "用于匹配：打招呼/欢迎/再见/热情；触发场景：刚进群、遇到熟人、开心迎接，或者告别离场时，表达睁大眼睛面带笑容，开心举起一只手摇晃打招呼的热情状态。",
+      "file": "emoticons/T_ChatEmo_Xuanling_04.png"
+    }
+  ]
+}

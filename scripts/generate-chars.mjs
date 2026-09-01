@@ -9,7 +9,6 @@ const optionalAssets = [
   ['prompt', 'prompt.md'],
   ['avatar', 'avatar.png'],
   ['cardBg', 'cardBg.png'],
-  ['tts', 'TTS.wav'],
 ];
 
 function fail(message) {
@@ -28,12 +27,21 @@ function gitUpdateAt(directory) {
   return result.stdout.trim();
 }
 
-function isTrackedDirectory(directory) {
-  const result = spawnSync('git', ['ls-files', '--', `${directory}/`], {
+function isCommittedDirectory(directory) {
+  const result = spawnSync('git', ['log', '-1', '--format=%H', 'HEAD', '--', directory], {
     cwd: root,
     encoding: 'utf8',
   });
   return result.status === 0 && Boolean(result.stdout.trim());
+}
+
+async function findTtsFile(directory, characterPath) {
+  const files = await readdir(characterPath, { withFileTypes: true });
+  const wavFiles = files.filter((file) => file.isFile() && file.name.toLowerCase().endsWith('.wav'));
+  if (wavFiles.length > 1) {
+    throw new Error(`${directory} 包含多个 WAV 文件，无法确定 TTS 资源`);
+  }
+  return wavFiles[0]?.name;
 }
 
 async function main() {
@@ -53,7 +61,7 @@ async function main() {
     // Directories without either character marker are unrelated repository data.
     if (!hasPrompt && !hasInfo) continue;
     // Untracked local drafts are intentionally ignored until they are committed.
-    if (!isTrackedDirectory(directory)) continue;
+    if (!isCommittedDirectory(directory)) continue;
     if (!hasPrompt || !hasInfo) {
       throw new Error(`${directory} 必须同时包含 prompt.md 和 info.json`);
     }
@@ -84,6 +92,8 @@ async function main() {
         character[field] = `${directory}/${file}`;
       }
     }
+    const ttsFile = await findTtsFile(directory, characterPath);
+    if (ttsFile) character.tts = `${directory}/${ttsFile}`;
     characters.push(character);
   }
 

@@ -1,10 +1,32 @@
 {
-    "name": {
-        "en": "Suisui",
-        "cn": "穗穗"
+  "name": {
+    "en": "Suisui",
+    "cn": "穗穗"
+  },
+  "description": {
+    "en": "",
+    "cn": ""
+  },
+  "emoticons": [
+    {
+      "name": "T_ChatEmo_Suisui_01",
+      "description": "用于匹配：献宝/送礼/分享好东西/得意展示；触发场景：想给对方分享红包、美食、好玩的物件，或者得意地炫耀刚获得的物品时，表达手里拿着金色小物件和彩色画册，睁大眼睛微微勾起嘴角的开心展示状态。",
+      "file": "emoticons/T_ChatEmo_Suisui_01.png"
     },
-    "description": {
-        "en": "",
-        "cn": ""
+    {
+      "name": "T_ChatEmo_Suisui_02",
+      "description": "用于匹配：算账/计算/精打细算/理账/盘算；触发场景：正在算钱、计算收益、盘点开支、规划怎么花销，或者想表达自己在精打细算抠门时，表达双手端着彩色算盘，大眼睛专注盯着算盘珠子的认真计算状态。",
+      "file": "emoticons/T_ChatEmo_Suisui_02.png"
+    },
+    {
+      "name": "T_ChatEmo_Suisui_03",
+      "description": "用于匹配：满足/被夸/害羞/愉悦；触发场景：受到夸奖、圆满完成任务、或者听到令人开心的事情后，表达拿着扇子闭眼微笑、脸颊泛起微红的乖巧娇羞状态。",
+      "file": "emoticons/T_ChatEmo_Suisui_03.png"
+    },
+    {
+      "name": "T_ChatEmo_Suisui_04",
+      "description": "用于匹配：灵光一闪/灵机一动/顿悟/突然想到/好主意；触发场景：突然想到绝佳的妙计、解开了一道难题、或者灵机一动有了好办法时，表达双手交叉放在胸前，睁大眼睛嘴巴微张，背后带有放射状星光特效的“啊哈！”顿悟状态。",
+      "file": "emoticons/T_ChatEmo_Suisui_04.png"
     }
+  ]
 }
