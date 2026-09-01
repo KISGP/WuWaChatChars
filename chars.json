@@ -319,9 +319,10 @@
       }
     ],
     "id": "Chixia",
-    "updateAt": "2026-09-01T19:57:06+08:00",
+    "updateAt": "2026-09-01T22:16:38+08:00",
     "prompt": "Chixia/prompt.md",
     "avatar": "Chixia/avatar.png",
+    "cardBg": "Chixia/cardBg.png",
     "tts": "Chixia/1732517114516896573.wav"
   },
   {
