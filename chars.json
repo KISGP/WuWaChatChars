@@ -33,6 +33,64 @@
   },
   {
     "name": {
+      "en": "Baizhi",
+      "cn": "白芷"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_B_01",
+        "description": "用于匹配：挨打/无奈/物理降噪/默默承受；触发场景：被反驳、被打击、遇到离谱话被“打脸”时；表情描述：图中角色闭眼挨打且带有速度线的淡定感。",
+        "file": "emoticons/T_ChatEmo_B_01.png"
+      },
+      {
+        "name": "T_ChatEmo_B_02",
+        "description": "用于匹配：无语/无奈/发呆/冷场/宕机/看淡一切；触发场景：听到离谱话、无话可说、被迫营业时；表情描述：图中角色空洞眼神搭配脸颊红晕的平静放空感。",
+        "file": "emoticons/T_ChatEmo_B_02.png"
+      },
+      {
+        "name": "T_ChatEmo_B_03",
+        "description": "开心/满足/得意/安逸；触发场景：收到夸奖、找到宝藏、遇到喜欢的事物时；表情描述：图中角色眯眼微笑、抱着圆球物品的可爱满足状态。",
+        "file": "emoticons/T_ChatEmo_B_03.png"
+      },
+      {
+        "name": "T_ChatEmo_B_04",
+        "description": "用于匹配：惊讶/恍然大悟/震惊/提醒；触发场景：突然想到关键点、听到意外消息、需要引起注意时；表情描述：图中角色睁大眼睛搭配黄色感叹号的吃惊状态。",
+        "file": "emoticons/T_ChatEmo_B_04.png"
+      },
+      {
+        "name": "T_ChatEmo_B_05",
+        "description": "用于匹配：委屈/无辜/眼巴巴/可怜；触发场景：想要求助、被冷落、做错事等待原谅时；表情描述：图中角色撇嘴看着对方、眼巴巴的可怜状态。",
+        "file": "emoticons/T_ChatEmo_B_05.png"
+      },
+      {
+        "name": "T_ChatEmo_B_06",
+        "description": "用于匹配：生气/暴怒/血压升高/极度无语；触发场景：被气到无语、遇到极其离谱的事情、极度烦躁时；表情描述：图中角色黑脸加周围飘着红色怒火符号的暴躁状态。",
+        "file": "emoticons/T_ChatEmo_B_06.png"
+      },
+      {
+        "name": "T_ChatEmo_B_07",
+        "description": "用于匹配：跑路/开溜/撤退/逃离/光速逃逸/惹不起躲得起；触发场景：遇到麻烦、想逃避责任、不想上班上学、遇到社死场面或极度想赶紧离开时；表情描述：图中角色瞬间冲刺溜走、只留下速度线的慌张跑路状态。",
+        "file": "emoticons/T_ChatEmo_B_07.png"
+      },
+      {
+        "name": "T_ChatEmo_B_08",
+        "description": "用于匹配：刷手机/围观/吃瓜/发呆/放空；触发场景：默默看群里聊天、玩手机摸鱼、旁观热闹时；表情描述：图中角色拿着手机面无表情看戏的平静状态。",
+        "file": "emoticons/T_ChatEmo_B_08.png"
+      }
+    ],
+    "id": "Baizhi",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Baizhi/prompt.md",
+    "avatar": "Baizhi/avatar.png",
+    "cardBg": "Baizhi/cardBg.png",
+    "tts": "Baizhi/1732516523671933627.wav"
+  },
+  {
+    "name": {
       "en": "Buling",
       "cn": "卜灵"
     },
@@ -41,10 +99,103 @@
       "cn": ""
     },
     "id": "Buling",
-    "updateAt": "2026-08-29T13:07:10+08:00",
+    "updateAt": "2026-09-01T19:57:06+08:00",
     "prompt": "Buling/prompt.md",
     "avatar": "Buling/avatar.png",
-    "cardBg": "Buling/cardBg.png"
+    "cardBg": "Buling/cardBg.png",
+    "tts": "Buling/1765293089817345630.wav"
+  },
+  {
+    "name": {
+      "en": "Camellia",
+      "cn": "椿"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_T_05",
+        "description": "用于匹配：打招呼/欢呼/俏皮/听八卦/分享；触发场景：遇到熟人、想到好点子、准备分享有趣的八卦或开局聊天时；表情描述：图中角色单手捂住嘴边张嘴笑着的灵动机警状态。",
+        "file": "emoticons/T_ChatEmo_T_05.png"
+      },
+      {
+        "name": "T_ChatEmo_T_06",
+        "description": "用于匹配：滑稽/狂笑/乐子人/搞事/看好戏；触发场景：准备整蛊别人、看到极其离谱好笑的事情、露出腹黑一面时；表情描述：图中角色巨大的红发圆脸闭眼诡异狂笑的极度搞笑状态。",
+        "file": "emoticons/T_ChatEmo_T_06.png"
+      },
+      {
+        "name": "T_ChatEmo_T_07",
+        "description": "用于匹配：花痴/极度喜欢/心动/卖萌/狂热；触发场景：看到喜欢的角色或事物、被可爱到爆炸、被人夸奖时；表情描述：图中角色双眼变成红玫瑰、脸颊通红双手捧脸的极度狂热心动状态。",
+        "file": "emoticons/T_ChatEmo_T_07.png"
+      },
+      {
+        "name": "T_ChatEmo_T_08",
+        "description": "用于匹配：自信/得意/搞定/装杯/小菜一碟；触发场景：完美解决难题、想到绝佳主意、想自信地指点他人或向人炫耀时；表情描述：图中角色单手食指轻点头部做“敬礼”动作、嘴角上扬的傲娇自信状态。",
+        "file": "emoticons/T_ChatEmo_T_08.png"
+      }
+    ],
+    "id": "Camellia",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Camellia/prompt.md",
+    "avatar": "Camellia/avatar.png",
+    "cardBg": "Camellia/cardBg.png",
+    "tts": "Camellia/1735370693849989200.wav"
+  },
+  {
+    "name": {
+      "en": "Cantarella",
+      "cn": "坎特蕾拉"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Cantarella",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Cantarella/prompt.md",
+    "avatar": "Cantarella/avatar.png",
+    "cardBg": "Cantarella/cardBg.png",
+    "tts": "Cantarella/1742839665373371819.wav"
+  },
+  {
+    "name": {
+      "en": "Carlotta",
+      "cn": "珂莱塔"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_T_01",
+        "description": "用于匹配：自信/强势/准备战斗/傲娇；触发场景：准备大展身手、想要镇住场面、或者略带攻击性地表达态度时；表情描述：图中角色单手拿着银色锤子、眼神锐利且嘴角带着傲娇微笑的自信状态。",
+        "file": "emoticons/T_ChatEmo_T_01.png"
+      },
+      {
+        "name": "T_ChatEmo_T_02",
+        "description": "用于匹配：开心/得意/满足/灵光一闪/发财；触发场景：收到打赏、听到好消息、想到绝佳主意、或者展示“钞能力”时；表情描述：图中角色闭眼开心大笑、单手举起带有星星闪光特效硬币的得意状态。",
+        "file": "emoticons/T_ChatEmo_T_02.png"
+      },
+      {
+        "name": "T_ChatEmo_T_03",
+        "description": "用于匹配：打招呼/告别/欢迎/俏皮/再见；触发场景：进入聊天、结束话题、表示同意或热情送别时；表情描述：图中角色面带自信微笑、单手举起挥手告别的友好状态。",
+        "file": "emoticons/T_ChatEmo_T_03.png"
+      },
+      {
+        "name": "T_ChatEmo_T_04",
+        "description": "用于匹配：优雅/悠闲/吃瓜/看戏/高高在上；触发场景：默默围观群聊闹剧、想要装出贵族气质、或者表示丝毫不慌只想静静喝茶时；表情描述：图中角色双手端着茶杯、半闭着眼睛面带微笑的优雅悠闲状态。",
+        "file": "emoticons/T_ChatEmo_T_04.png"
+      }
+    ],
+    "id": "Carlotta",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Carlotta/prompt.md",
+    "avatar": "Carlotta/avatar.png",
+    "cardBg": "Carlotta/cardBg.png",
+    "tts": "Carlotta/1735740803590558430.wav"
   },
   {
     "name": {
@@ -64,6 +215,44 @@
   },
   {
     "name": {
+      "en": "Changli",
+      "cn": "长离"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_Q_13",
+        "description": "用于匹配：得意/胜券在握/狡黠/听戏；触发场景：想到完美对策、准备整蛊别人、或者听到有趣八卦准备发力时；表情描述：图中角色单手托腮、嘴角上扬且眼神透着精明的狡黠状态。",
+        "file": "emoticons/T_ChatEmo_Q_13.png"
+      },
+      {
+        "name": "T_ChatEmo_Q_14",
+        "description": "用于匹配：讲课/指导/解说/科普/强调重点；触发场景：给群友讲解规则、指导他人工作、传授经验、或者摆出“听我讲”的从容姿态时；表情描述：图中角色单手托腮、金色眼睛微眯透着笑意，一副胸有成竹且游刃有余的导师状态。",
+        "file": "emoticons/T_ChatEmo_Q_14.png"
+      },
+      {
+        "name": "T_ChatEmo_Q_15",
+        "description": "用于匹配：委屈/自闭/郁闷/冷/生闷气；触发场景：被批评了、被冷落了、遇到挫折想静静、或者遇到冷天气时；表情描述：图中角色抱着膝盖缩成一团、眼神委屈的半死不活状态。",
+        "file": "emoticons/T_ChatEmo_Q_15.png"
+      },
+      {
+        "name": "T_ChatEmo_Q_16",
+        "description": "用于匹配：记录/观察/吃瓜/算计/盘算；触发场景：默默在群里吃瓜、认真记账、审阅文件或正在谋划什么时；表情描述：图中角色头顶着白色小鸟、拿着本子和笔面带微笑的专注观察状态。",
+        "file": "emoticons/T_ChatEmo_Q_16.png"
+      }
+    ],
+    "id": "Changli",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Changli/prompt.md",
+    "avatar": "Changli/avatar.png",
+    "cardBg": "Changli/cardBg.png",
+    "tts": "Changli/1732538059522132671.wav"
+  },
+  {
+    "name": {
       "en": "Chisa",
       "cn": "千咲"
     },
@@ -72,10 +261,68 @@
       "cn": ""
     },
     "id": "Chisa",
-    "updateAt": "2026-08-29T13:07:10+08:00",
+    "updateAt": "2026-09-01T19:57:06+08:00",
     "prompt": "Chisa/prompt.md",
     "avatar": "Chisa/avatar.png",
-    "cardBg": "Chisa/cardBg.png"
+    "cardBg": "Chisa/cardBg.png",
+    "tts": "Chisa/1763498686865493466.wav"
+  },
+  {
+    "name": {
+      "en": "Chixia",
+      "cn": "炽霞"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_C_01",
+        "description": "用于匹配：疑惑/摸不着头脑/懵逼/不可思议；触发场景：完全听不懂对方在说什么、遇到极其反常的事情、大脑一片空白时；表情描述：图中角色单手挠头、眼睛睁大且身边飘着多个红色问号的极度困惑状态。",
+        "file": "emoticons/T_ChatEmo_C_01.png"
+      },
+      {
+        "name": "T_ChatEmo_C_02",
+        "description": "用于匹配：委屈/快哭了/弱小可怜/恳求；触发场景：被欺负了、被拒绝了、或者想要卖惨求同情时；表情描述：图中角色眼眶泛红含着泪水、嘴巴变成小圆点的可怜巴巴状态。",
+        "file": "emoticons/T_ChatEmo_C_02.png"
+      },
+      {
+        "name": "T_ChatEmo_C_03",
+        "description": "用于匹配：加油/打气/干劲十足/一起冲/热血；触发场景：准备一起面对挑战、鼓励同伴、或者为了共同目标一起努力奋斗时；表情描述：图中角色背后带有黄色光芒特效、充满能量和热血的加油打气状态。",
+        "file": "emoticons/T_ChatEmo_C_03.png"
+      },
+      {
+        "name": "T_ChatEmo_C_04",
+        "description": "用于匹配：抛媚眼/放电/耍帅/得瑟/小得意；触发场景：做成了事情想被夸、和熟人开玩笑、准备自信展示自己时；表情描述：图中角色单眼wink、眼里闪着星星的高光并且旁边带小星星的得意卖萌状态。",
+        "file": "emoticons/T_ChatEmo_C_04.png"
+      },
+      {
+        "name": "T_ChatEmo_C_05",
+        "description": "用于匹配：搞砸了/闯祸了/尴尬/装傻/投降/不知所措；触发场景：做错事被抓包、不小心弄坏东西、计划失败不知道怎么办、只能靠卖萌化解尴尬时；表情描述：图中角色双臂高举作投降状，眼睛呈无奈的下弯弧线，张嘴尴尬傻笑的呆萌状态。",
+        "file": "emoticons/T_ChatEmo_C_05.png"
+      },
+      {
+        "name": "T_ChatEmo_C_06",
+        "description": "用于匹配：愤怒/气急败坏/抗议/被压制/咬牙切齿；触发场景：被强行打断发言、被冤枉、遇到极其无理取闹的人时；表情描述：图中角色嘴里咬着胶带绷带、眉头紧锁、双拳紧握的愤怒抗议状态。",
+        "file": "emoticons/T_ChatEmo_C_06.png"
+      },
+      {
+        "name": "T_ChatEmo_C_07",
+        "description": "用于匹配：点赞/认可/很棒/自信/同意；触发场景：看到优秀作品、认同他人观点、表达赞赏或鼓励时；表情描述：图中角色闭眼微笑并单手竖起大拇指、周围有黄色星星的极力赞同状态。",
+        "file": "emoticons/T_ChatEmo_C_07.png"
+      },
+      {
+        "name": "T_ChatEmo_C_08",
+        "description": "用于匹配：大笑/狂喜/叫好/畅快/忍不住笑出声；触发场景：看到极其好笑的内容、听到精彩发言、或者非常开心想要大声欢呼时；表情描述：图中角色眼睛眯成“> <”状且张大嘴巴的痛快大笑状态。",
+        "file": "emoticons/T_ChatEmo_C_08.png"
+      }
+    ],
+    "id": "Chixia",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Chixia/prompt.md",
+    "avatar": "Chixia/avatar.png",
+    "tts": "Chixia/1732517114516896573.wav"
   },
   {
     "name": {
@@ -104,28 +351,28 @@
     },
     "emoticons": [
       {
-        "name": "happy",
-        "description": "达妮娅捂嘴笑",
+        "name": "T_ChatEmo_Daniya_01",
+        "description": "用于匹配：捂嘴笑/偷笑/窃喜/憋笑/娇羞/看戏；触发场景：听到好笑的事情想保持优雅、看到别人出糗暗自开心、或者想表达一种温婉、乖巧又带点小狡黠的偷笑时，用戴着红色手套的手捂住嘴巴，眼睛弯成月牙的俏皮状态。",
         "file": "emoticons/T_ChatEmo_Daniya_01.png"
       },
       {
-        "name": "wish",
-        "description": "达妮娅对蛋糕许愿",
+        "name": "T_ChatEmo_Daniya_02",
+        "description": "用于匹配：许愿/生日/庆祝/仪式感/期待；触发场景：庆祝生日吹蜡烛、默默许下心愿、或者充满仪式感地享受温馨时刻时，闭眼低头注视着桌上插着蜡烛的小蛋糕的安静状态。",
         "file": "emoticons/T_ChatEmo_Daniya_02.png"
       },
       {
-        "name": "sleepy",
-        "description": "达妮娅趴在桌子上睡觉",
+        "name": "T_ChatEmo_Daniya_03",
+        "description": "用于匹配：睡觉/困了/休息/累趴/摆烂；触发场景：熬夜困得不行、工作学习累瘫了、或者只想倒头呼呼大睡时，趴在桌子上闭着眼呼呼大睡（旁边伴有Z符号）的沉睡状态。",
         "file": "emoticons/T_ChatEmo_Daniya_03.png"
       },
       {
-        "name": "disappointed",
-        "description": "达妮娅不满意地嘟嘴",
+        "name": "T_ChatEmo_Daniya_04",
+        "description": "用于匹配：怀疑/冷漠/审视/不耐烦/无语；触发场景：面对离谱操作、静静看戏、或者想表达“你认真的吗”时；表情描述：图中角色半垂着眼皮、单手搭在胳膊上面无表情的审视状态。",
         "file": "emoticons/T_ChatEmo_Daniya_04.png"
       }
     ],
     "id": "Daniya",
-    "updateAt": "2026-08-29T02:02:24+08:00",
+    "updateAt": "2026-09-01T19:57:06+08:00",
     "prompt": "Daniya/prompt.md",
     "avatar": "Daniya/avatar.png",
     "cardBg": "Daniya/cardBg.png",
@@ -141,10 +388,11 @@
       "cn": ""
     },
     "id": "Galbrena",
-    "updateAt": "2026-08-29T13:07:10+08:00",
+    "updateAt": "2026-09-01T19:57:06+08:00",
     "prompt": "Galbrena/prompt.md",
     "avatar": "Galbrena/avatar.png",
-    "cardBg": "Galbrena/cardBg.png"
+    "cardBg": "Galbrena/cardBg.png",
+    "tts": "Galbrena/1759910459317809320.wav"
   },
   {
     "name": {
@@ -187,12 +435,72 @@
       "en": "",
       "cn": ""
     },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_Q_09",
+        "description": "用于匹配：惊讶/懵圈/呆滞/吹气/思考；触发场景：看到出乎意料的东西、面对突如其来的局面、或者想装作无辜天然呆时；表情描述：图中角色大睁着眼睛、单手捂嘴。",
+        "file": "emoticons/T_ChatEmo_Q_09.png"
+      },
+      {
+        "name": "T_ChatEmo_Q_010",
+        "description": "用于匹配：许愿/祈祷/祝福/乖巧/暗自开心；触发场景：真心祝福他人、许下愿望、或者碰到好事暗自窃喜时；表情描述：图中角色头上长角、双手合十、闭眼甜蜜微笑的乖巧状态。",
+        "file": "emoticons/T_ChatEmo_Q_010.png"
+      },
+      {
+        "name": "T_ChatEmo_Q_011",
+        "description": "用于匹配：专注/认真/努力工作/埋头苦干/赶进度；触发场景：面对堆积如山的文件任务、熬夜加班赶工、或者正在拼命做题学习时；表情描述：图中角色坐在桌前握紧笔紧盯文件堆（纯白眼睛无瞳孔是角色画风），神情高度集中、绝不敷衍的认真状态。",
+        "file": "emoticons/T_ChatEmo_Q_011.png"
+      },
+      {
+        "name": "T_ChatEmo_Q_012",
+        "description": "用于匹配：傲娇/得意/自信/优雅/卖弄；触发场景：完美完成任务、想彰显自己的聪明才智、或者从容地旁观准备看戏时；表情描述：图中角色双臂交叉抱胸、闭眼微微上扬微笑的自信傲娇状态。",
+        "file": "emoticons/T_ChatEmo_Q_012.png"
+      }
+    ],
     "id": "jinxi",
-    "updateAt": "2026-08-29T13:07:10+08:00",
+    "updateAt": "2026-09-01T19:57:06+08:00",
     "prompt": "jinxi/prompt.md",
     "avatar": "jinxi/avatar.png",
     "cardBg": "jinxi/cardBg.png",
     "tts": "jinxi/TTS.wav"
+  },
+  {
+    "name": {
+      "en": "Lucilla",
+      "cn": "洛瑟菈"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_Luosela_01",
+        "description": "用于匹配：开拍/导演/记录/准备/宣布开始；触发场景：准备执行新任务、想主导话题、或者记录某个重要时刻时，表达手拿黑色场记板、眼神自信且带着浅笑的专注状态。",
+        "file": "emoticons/T_ChatEmo_Luosela_01.png"
+      },
+      {
+        "name": "T_ChatEmo_Luosela_02",
+        "description": "用于匹配：吃瓜/看戏/观影/审视/装酷；触发场景：戴上3D眼镜准备围观群聊好戏、看剧，或者想表达“我准备好了，静静看你们表演”时，表达双手抱胸靠着椅子、表情淡定的悠闲吃瓜状态。",
+        "file": "emoticons/T_ChatEmo_Luosela_02.png"
+      },
+      {
+        "name": "T_ChatEmo_Luosela_03",
+        "description": "用于匹配：采访/主持/发言/开麦/演讲；触发场景：需要发表重要讲话、主持活动、开麦科普、或者准备输出自己的观点时，表达站在讲台前手持麦克风、眼神认真的专注发言状态。",
+        "file": "emoticons/T_ChatEmo_Luosela_03.png"
+      },
+      {
+        "name": "T_ChatEmo_Luosela_04",
+        "description": "用于匹配：帅气/致敬/自信/装酷/撩人/摆拍；触发场景：完成任务想炫耀一下，或者刻意摆出帅气姿势打招呼、表达胜券在握的自信时，表达单手扶帽檐单眼Wink、嘴角上扬的迷人魅力状态。",
+        "file": "emoticons/T_ChatEmo_Luosela_04.png"
+      }
+    ],
+    "id": "Lucilla",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Lucilla/prompt.md",
+    "avatar": "Lucilla/avatar.png",
+    "cardBg": "Lucilla/cardBg.png",
+    "tts": "Lucilla/1780751248433348765.wav"
   },
   {
     "name": {
@@ -220,10 +528,11 @@
       "cn": ""
     },
     "id": "Luxi",
-    "updateAt": "2026-08-29T13:07:10+08:00",
+    "updateAt": "2026-09-01T19:57:06+08:00",
     "prompt": "Luxi/prompt.md",
     "avatar": "Luxi/avatar.png",
-    "cardBg": "Luxi/cardBg.png"
+    "cardBg": "Luxi/cardBg.png",
+    "tts": "Luxi/1780751176986548925.wav"
   },
   {
     "name": {
@@ -259,6 +568,22 @@
   },
   {
     "name": {
+      "en": "Phoebe",
+      "cn": "菲比"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Phoebe",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Phoebe/prompt.md",
+    "avatar": "Phoebe/avatar.png",
+    "cardBg": "Phoebe/cardBg.png",
+    "tts": "Phoebe/1739124149888558598.wav"
+  },
+  {
+    "name": {
       "en": "Phrolova",
       "cn": "弗洛洛"
     },
@@ -283,10 +608,103 @@
       "cn": ""
     },
     "id": "Qingxiao",
-    "updateAt": "2026-08-29T13:07:10+08:00",
+    "updateAt": "2026-09-01T19:57:06+08:00",
     "prompt": "Qingxiao/prompt.md",
     "avatar": "Qingxiao/avatar.png",
-    "cardBg": "Qingxiao/cardBg.png"
+    "cardBg": "Qingxiao/cardBg.png",
+    "tts": "Qingxiao/1787053893783683541.wav"
+  },
+  {
+    "name": {
+      "en": "Rebecca",
+      "cn": "丽贝卡"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "id": "Rebecca",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Rebecca/prompt.md",
+    "avatar": "Rebecca/avatar.png",
+    "cardBg": "Rebecca/cardBg.png",
+    "tts": "Rebecca/1780751081662894214.wav"
+  },
+  {
+    "name": {
+      "en": "Roccia",
+      "cn": "洛可可"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_T_13",
+        "description": "用于匹配：翻找/寻宝/掏东西/搜刮/找东西；触发场景：在宝箱或储物箱里翻找战利品、寻找隐藏道具，或者表达正在翻箱倒柜找东西时，身体前倾趴在箱子上、双手伸进箱子里认真摸索的寻找状态。",
+        "file": "emoticons/T_ChatEmo_T_13.png"
+      },
+      {
+        "name": "T_ChatEmo_T_14",
+        "description": "用于匹配：偷看/暗中观察/躲藏/惊吓/心虚；触发场景：躲在暗处吃瓜、不想被找到、或者遇到突发状况想藏起来时，表达躲在箱子后面探出半个身子、双手抓着边缘警惕观察的暗中偷瞄状态。",
+        "file": "emoticons/T_ChatEmo_T_14.png"
+      },
+      {
+        "name": "T_ChatEmo_T_15",
+        "description": "用于匹配：闪亮登场/表演/谢幕/自信/享受瞩目；触发场景：完成艰巨任务、在众人面前展示成果、或者作为主角受到夸奖时，表达站在聚光灯舞台中央，闭眼微笑享受掌声的闪耀状态。",
+        "file": "emoticons/T_ChatEmo_T_15.png"
+      },
+      {
+        "name": "T_ChatEmo_T_16",
+        "description": "用于匹配：指路/宣布/强调/指点/指引方向；触发场景：制定计划、指明方向、或者准备开场宣布某事时，表达站在箱子上单手指向前方，眼神自信的指导/宣告状态。",
+        "file": "emoticons/T_ChatEmo_T_16.png"
+      }
+    ],
+    "id": "Roccia",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Roccia/prompt.md",
+    "avatar": "Roccia/avatar.png",
+    "cardBg": "Roccia/cardBg.png",
+    "tts": "Roccia/1737552603649486876.wav"
+  },
+  {
+    "name": {
+      "en": "Sanhua",
+      "cn": "散华"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_J_01",
+        "description": "用于匹配：石化/极度震惊/冻住/冷场/被泼冷水；触发场景：听到极其离谱的消息、遇到无法理解的状况、或者感觉氛围瞬间降至冰点时，表达整个人被封在冰块里，睁大眼睛毫无表情的僵硬呆滞状态。",
+        "file": "emoticons/T_ChatEmo_J_01.png"
+      },
+      {
+        "name": "T_ChatEmo_J_02",
+        "description": "用于匹配：无奈/叹气/等麻了/疲惫/放弃挣扎；触发场景：苦等很久没有结果、面对糟糕的现状只能默默接受、或者累到不想说话时，表达闭着眼睛叹气，手里拿着锅和珠子，旁边摆着漏沙的极度疲惫和无言以对状态。",
+        "file": "emoticons/T_ChatEmo_J_02.png"
+      },
+      {
+        "name": "T_ChatEmo_J_03",
+        "description": "用于匹配：思考/打量/疑惑/准备下锅；触发场景：面对奇葩的人或事、盯着一个奇怪的东西思考怎么处理，或者看着“食材”考虑要不要开火时，表达拿着平底锅，认真盯着旁边小气泡里奇怪物体，眉头微皱的审视/盘算状态。",
+        "file": "emoticons/T_ChatEmo_J_03.png"
+      },
+      {
+        "name": "T_ChatEmo_J_04",
+        "description": "用于匹配：发飙/警告/拿锅开干/准备战斗；触发场景：极度生气想敲打别人、遇到极其离谱的事情准备“用物理手段解决”，或者准备大显身手做菜时，表达单手高举平底锅、怒目圆睁张大嘴巴的“准备开干”状态。",
+        "file": "emoticons/T_ChatEmo_J_04.png"
+      }
+    ],
+    "id": "Sanhua",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Sanhua/prompt.md",
+    "avatar": "Sanhua/avatar.png",
+    "cardBg": "Sanhua/cardBg.png",
+    "tts": "Sanhua/1732544029248169673.wav"
   },
   {
     "name": {
@@ -297,8 +715,30 @@
       "en": "",
       "cn": ""
     },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_S_01",
+        "description": "用于匹配：弹琴/听歌/陶醉/享受/悠然自得；触发场景：分享音乐、沉浸在美好的氛围中、或者表达自己非常闲适愉悦时，表达坐在钢琴前闭眼微笑弹奏，头顶环绕着大蝴蝶和音符的陶醉状态。",
+        "file": "emoticons/T_ChatEmo_S_01.png"
+      },
+      {
+        "name": "T_ChatEmo_S_02",
+        "description": "用于匹配：冷眼旁观/淡定/高冷/等待/装酷；触发场景：不打算插话、摆出淡然的态度应对离谱事件、或者静静坐着展示自己时，表达头戴星空兜帽、面无表情平静注视前方的淡定状态。",
+        "file": "emoticons/T_ChatEmo_S_02.png"
+      },
+      {
+        "name": "T_ChatEmo_S_03",
+        "description": "用于匹配：送花/害羞/温柔/浪漫/收到礼物；触发场景：表达爱意、感谢、送人礼物，或者收到喜欢的东西展现温柔时，表达双手捧着一束粉色小花，脸颊微红、低头浅笑的害羞温柔状态。",
+        "file": "emoticons/T_ChatEmo_S_03.png"
+      },
+      {
+        "name": "T_ChatEmo_S_04",
+        "description": "用于匹配：展示/施法/指引/梦幻/召唤；触发场景：想展示美丽的魔法效果、给对方看手中的“宝贝”、或者表达温柔治愈的氛围时，表达伸手向前、微笑着看着手心里盘旋的蓝色发光蝴蝶的梦幻状态。",
+        "file": "emoticons/T_ChatEmo_S_04.png"
+      }
+    ],
     "id": "shorekeeper",
-    "updateAt": "2026-08-29T13:07:10+08:00",
+    "updateAt": "2026-09-01T19:57:06+08:00",
     "prompt": "shorekeeper/prompt.md",
     "avatar": "shorekeeper/avatar.png",
     "cardBg": "shorekeeper/cardBg.png",
@@ -329,11 +769,231 @@
       "en": "",
       "cn": ""
     },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_Suisui_01",
+        "description": "用于匹配：献宝/送礼/分享好东西/得意展示；触发场景：想给对方分享红包、美食、好玩的物件，或者得意地炫耀刚获得的物品时，表达手里拿着金色小物件和彩色画册，睁大眼睛微微勾起嘴角的开心展示状态。",
+        "file": "emoticons/T_ChatEmo_Suisui_01.png"
+      },
+      {
+        "name": "T_ChatEmo_Suisui_02",
+        "description": "用于匹配：算账/计算/精打细算/理账/盘算；触发场景：正在算钱、计算收益、盘点开支、规划怎么花销，或者想表达自己在精打细算抠门时，表达双手端着彩色算盘，大眼睛专注盯着算盘珠子的认真计算状态。",
+        "file": "emoticons/T_ChatEmo_Suisui_02.png"
+      },
+      {
+        "name": "T_ChatEmo_Suisui_03",
+        "description": "用于匹配：满足/被夸/害羞/愉悦；触发场景：受到夸奖、圆满完成任务、或者听到令人开心的事情后，表达拿着扇子闭眼微笑、脸颊泛起微红的乖巧娇羞状态。",
+        "file": "emoticons/T_ChatEmo_Suisui_03.png"
+      },
+      {
+        "name": "T_ChatEmo_Suisui_04",
+        "description": "用于匹配：灵光一闪/灵机一动/顿悟/突然想到/好主意；触发场景：突然想到绝佳的妙计、解开了一道难题、或者灵机一动有了好办法时，表达双手交叉放在胸前，睁大眼睛嘴巴微张，背后带有放射状星光特效的“啊哈！”顿悟状态。",
+        "file": "emoticons/T_ChatEmo_Suisui_04.png"
+      }
+    ],
     "id": "Suisui",
-    "updateAt": "2026-08-29T13:07:10+08:00",
+    "updateAt": "2026-09-01T19:57:06+08:00",
     "prompt": "Suisui/prompt.md",
     "avatar": "Suisui/avatar.png",
-    "cardBg": "Suisui/cardBg.png"
+    "cardBg": "Suisui/cardBg.png",
+    "tts": "Suisui/1785316825107133971.wav"
+  },
+  {
+    "name": {
+      "en": "Verina",
+      "cn": "维里奈"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_M_01",
+        "description": "用于匹配：OK/收到/没问题/批准/打包票/同意；触发场景：答应别人的请求、确认任务安排、或者自信地表示“交给我吧”时，表达单眼Wink并用手比出OK手势，周围闪烁着星星的肯定状态。",
+        "file": "emoticons/T_ChatEmo_M_01.png"
+      },
+      {
+        "name": "T_ChatEmo_M_02",
+        "description": "用于匹配：委屈/快哭了/被拒绝/极度伤心/求安慰；触发场景：受到委屈、被打击拒绝、或者极度想要撒娇寻求安慰时，表达眼眶里转着大大的泪水，头顶冒着三条黑线，双手向前伸出的可怜巴巴状态。",
+        "file": "emoticons/T_ChatEmo_M_02.png"
+      },
+      {
+        "name": "T_ChatEmo_M_03",
+        "description": "用于匹配：被摸头/被顺毛/被宠爱/害羞/乖巧享受；触发场景：受到长辈/老板/朋友的夸奖与抚摸、被当成小动物顺毛、或者想要表达乖巧害羞的享受状态时，表达闭眼微笑、双手捧在嘴边，头顶上方有手/靴子轻轻放下的被摸头状态。",
+        "file": "emoticons/T_ChatEmo_M_03.png"
+      },
+      {
+        "name": "T_ChatEmo_M_04",
+        "description": "用于匹配：玩泥巴/摔进坑里/搞砸了/泥坑里打滚/狼狈又开心；触发场景：不小心摔进泥坑、玩得浑身是泥、或者遇到突发状况弄脏了衣服时，表达双手高举、眼睛亮晶晶张着小嘴，在飞溅的泥土中显得狼狈又呆萌的开心状态。",
+        "file": "emoticons/T_ChatEmo_M_04.png"
+      }
+    ],
+    "id": "Verina",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Verina/prompt.md",
+    "avatar": "Verina/avatar.png",
+    "cardBg": "Verina/cardBg.png",
+    "tts": "Verina/1732545183359979510.wav"
+  },
+  {
+    "name": {
+      "en": "Yangyang",
+      "cn": "秧秧"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_A_01",
+        "description": "用于匹配：期待/乖巧/仰望/求夸奖/装无辜；触发场景：想要被夸、乖乖等投喂，或者眼巴巴看着对方操作时，表达双手托着下巴，大眼睛忽闪忽闪向上看，嘴角微张的期待状态。",
+        "file": "emoticons/T_ChatEmo_A_01.png"
+      },
+      {
+        "name": "T_ChatEmo_A_02",
+        "description": "用于匹配：喝饮料/惬意/摸鱼/悠闲看戏/放松；触发场景：休息时间偷偷摸鱼、喝着奶茶看群友吵架，或者悠闲享受下午茶时，表达捧着红色饮料杯吸着喝，旁边有颗小星星的惬意状态。",
+        "file": "emoticons/T_ChatEmo_A_02.png"
+      },
+      {
+        "name": "T_ChatEmo_A_03",
+        "description": "用于匹配：超喜欢/表白/赞同/狂送心；触发场景：看到极其喜欢的东西、强烈赞同对方、或者疯狂表达爱意时，表达双手捧着大红心直勾勾盯着对方的告白状态。",
+        "file": "emoticons/T_ChatEmo_A_03.png"
+      },
+      {
+        "name": "T_ChatEmo_A_04",
+        "description": "用于匹配：点赞/真棒/鼓励/夸奖/赞同；触发场景：看到优秀作品、赞同对方观点、或者给人打气加油时，表达闭眼张嘴大笑，用力竖起大拇指的赞赏状态。",
+        "file": "emoticons/T_ChatEmo_A_04.png"
+      },
+      {
+        "name": "T_ChatEmo_A_05",
+        "description": "用于匹配：无奈/叹气/认命/没辙/极度无语；触发场景：面对无法改变的糟糕情况、遇到极其离谱且不听劝的人、或者只能默默接受残酷现实时，表达半闭着眼睛嘴角下撇，趴在桌面上一副拿你没办法的叹息认命状态。",
+        "file": "emoticons/T_ChatEmo_A_05.png"
+      },
+      {
+        "name": "T_ChatEmo_A_06",
+        "description": "用于匹配：委屈/大哭/感动/求安慰/破防；触发场景：被欺负了、看到极其感人的内容、或者极度委屈想要哭诉时，表达双手在胸前攥着小拳头、眼眶含满大颗泪珠、嘴巴微张的哭泣求安慰状态。",
+        "file": "emoticons/T_ChatEmo_A_06.png"
+      },
+      {
+        "name": "T_ChatEmo_A_07",
+        "description": "用于匹配：撒娇/害羞/急眼/可爱/跺脚；触发场景：被夸奖了害羞、想要东西撒娇、或者遇到小麻烦急得不行时，表达闭着眼睛、脸颊通红、双手在胸前抓握的焦急可爱状态。",
+        "file": "emoticons/T_ChatEmo_A_07.png"
+      },
+      {
+        "name": "T_ChatEmo_A_08",
+        "description": "用于匹配：安详/躺平/灵魂出窍/累到升华/休息；触发场景：极度劳累后彻底放松、表示“自己已经升天了”，或者安心躺平享受时，表达闭眼微张嘴、双手交叠胸前，头顶光环旁边跟着小幽灵的安详状态。",
+        "file": "emoticons/T_ChatEmo_A_08.png"
+      },
+      {
+        "name": "T_ChatEmo_L_02",
+        "description": "用于匹配：发红包/送礼物/领福利/庆祝/开心；触发场景：节假日发红包、表达请客送礼、或者收到好处时，表达两只手手提着红色礼盒/红包，笑容灿烂的开心状态。",
+        "file": "emoticons/T_ChatEmo_L_02.png"
+      },
+      {
+        "name": "T_ChatEmo_Xuanling_01",
+        "description": "用于匹配：表白/示爱/极度喜欢/送心；触发场景：表达强烈的喜爱、感谢，或者对喜欢的人事物直接“贴脸开大”时，表达双手捧着巨大的红心，眼睛闪闪发亮的看着对方的状态。",
+        "file": "emoticons/T_ChatEmo_Xuanling_01.png"
+      },
+      {
+        "name": "T_ChatEmo_Xuanling_02",
+        "description": "用于匹配：品尝美味/喝汤/喝饮品/享受美食/惬意；触发场景：正在悠闲地喝汤、喝热饮，或者尝到好吃的东西时，表达闭眼微笑着拿着长柄勺子凑到嘴边，脸颊微红且周围有小花飘落的满足享受状态。",
+        "file": "emoticons/T_ChatEmo_Xuanling_02.png"
+      },
+      {
+        "name": "T_ChatEmo_Xuanling_03",
+        "description": "用于匹配：大哭/崩溃/极度委屈/求哄；触发场景：受到极大打击、找不东西、或者情绪彻底破防时，表达双手握拳在胸前，眼睛像瀑布一样流下大颗泪珠的极度悲伤状态。",
+        "file": "emoticons/T_ChatEmo_Xuanling_03.png"
+      },
+      {
+        "name": "T_ChatEmo_Xuanling_04",
+        "description": "用于匹配：打招呼/欢迎/再见/热情；触发场景：刚进群、遇到熟人、开心迎接，或者告别离场时，表达睁大眼睛面带笑容，开心举起一只手摇晃打招呼的热情状态。",
+        "file": "emoticons/T_ChatEmo_Xuanling_04.png"
+      }
+    ],
+    "id": "Yangyang",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Yangyang/prompt.md",
+    "avatar": "Yangyang/avatar.png",
+    "cardBg": "Yangyang/cardBg.png",
+    "tts": "Yangyang/1783509847327489630.wav"
+  },
+  {
+    "name": {
+      "en": "Yinlin",
+      "cn": "吟霖"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_Q_05",
+        "description": "用于匹配：无奈/心累/惋惜/眼睁睁看着/认命；触发场景：心爱的东西坏了、精心养的宠物或小跟班报废了、计划眼睁睁看着要失败却无能为力时，表达背过身去无奈地看着地上瘫成一团、正冒着蓝色小幽灵的损坏物，一副“算了，没救了”的叹息状态。",
+        "file": "emoticons/T_ChatEmo_Q_05.png"
+      },
+      {
+        "name": "T_ChatEmo_Q_06",
+        "description": "用于匹配：品酒/优雅/微醺/从容/拿捏；触发场景：想装作看透一切的大佬、享受难得的悠闲时光，或者面对麻烦表示毫不慌张时，表达单手端着红酒杯，单眼Wink，嘴角带着从容又邪魅的笑容。",
+        "file": "emoticons/T_ChatEmo_Q_06.png"
+      },
+      {
+        "name": "T_ChatEmo_Q_07",
+        "description": "用于匹配：盘玩/玩弄/宠溺/抱紧/得意；触发场景：把别人玩弄于股掌之间、欺负完弱小后炫耀战利品，或者单纯想抱着某个小物件/宠物撒娇时，表达满脸笑容",
+        "file": "emoticons/T_ChatEmo_Q_07.png"
+      },
+      {
+        "name": "T_ChatEmo_Q_08",
+        "description": "用于匹配：得意/带着小跟班/腹黑/威慑；触发场景：想表达自己势在必得或者准备暗中算计别人时，表达身旁站着一个眼神空洞的黑色玩偶，自己则面带坏笑的从容状态。",
+        "file": "emoticons/T_ChatEmo_Q_08.png"
+      }
+    ],
+    "id": "Yinlin",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Yinlin/prompt.md",
+    "avatar": "Yinlin/avatar.png",
+    "cardBg": "Yinlin/cardBg.png",
+    "tts": "Yinlin/1732538964316115159.wav"
+  },
+  {
+    "name": {
+      "en": "Youhu",
+      "cn": "釉瑚"
+    },
+    "description": {
+      "en": "",
+      "cn": ""
+    },
+    "emoticons": [
+      {
+        "name": "T_ChatEmo_S_05",
+        "description": "用于匹配：略略略/做鬼脸/调皮/挑衅/嘲讽/不服气；触发场景：想开个玩笑逗弄对方、恶意卖萌、表示“我才不怕你”、或者用傲娇调皮的方式拒绝时，表达单眼Wink，用单手食指拉下眼皮并吐着小舌头的戏谑状态。",
+        "file": "emoticons/T_ChatEmo_S_05.png"
+      },
+      {
+        "name": "T_ChatEmo_S_06",
+        "description": "用于匹配：扑街/累瘫/彻底趴下/摔倒/大失败；触发场景：工作学习累到直接一头栽倒、遇到彻底搞砸的结局、或者想表达直接躺平放弃时，表达整个人头朝下直直栽到地上、双腿翘起朝天、旁边飘着铃铛的“彻底趴下”状态。",
+        "file": "emoticons/T_ChatEmo_S_06.png"
+      },
+      {
+        "name": "T_ChatEmo_S_07",
+        "description": "用于匹配：笑出眼泪/爆笑/嘲笑/狂笑/擦泪；触发场景：看到极其好笑的内容、被段子笑到不行、或者看到别人出糗时，表达单手举起在眼角/脸颊旁抹眼泪，闭眼张嘴大笑，眼角挂着蓝色泪珠的“笑哭了”状态。",
+        "file": "emoticons/T_ChatEmo_S_07.png"
+      },
+      {
+        "name": "T_ChatEmo_S_08",
+        "description": "用于匹配：审视/检查/侦探/寻找破绽/盯防；触发场景：想仔细查看群友的发言、寻找逻辑漏洞、审查文件，或者开团前先“放大镜侦查”时，表达单手举着放大镜凑近右眼，闭着左眼斜视的审视状态。",
+        "file": "emoticons/T_ChatEmo_S_08.png"
+      }
+    ],
+    "id": "Youhu",
+    "updateAt": "2026-09-01T19:57:06+08:00",
+    "prompt": "Youhu/prompt.md",
+    "avatar": "Youhu/avatar.png",
+    "cardBg": "Youhu/cardBg.png",
+    "tts": "Youhu/1732538370816591722.wav"
   },
   {
     "name": {
