@@ -28,5 +28,15 @@
       "description": "用于匹配：帅气/致敬/自信/装酷/撩人/摆拍；触发场景：完成任务想炫耀一下，或者刻意摆出帅气姿势打招呼、表达胜券在握的自信时，表达单手扶帽檐单眼Wink、嘴角上扬的迷人魅力状态。",
       "file": "emoticons/T_ChatEmo_Luosela_04.png"
     }
-  ]
+  ],
+  "tts": {
+    "voices": [
+      {
+        "id": "default",
+        "label": "默认音色",
+        "lang": "zh",
+        "file": "voices/1780751248433348765.wav"
+      }
+    ]
+  }
 }

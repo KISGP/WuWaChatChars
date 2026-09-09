@@ -28,5 +28,16 @@
       "description": "用于匹配：怀疑/冷漠/审视/不耐烦/无语；触发场景：面对离谱操作、静静看戏、或者想表达“你认真的吗”时；表情描述：图中角色半垂着眼皮、单手搭在胳膊上面无表情的审视状态。",
       "file": "emoticons/T_ChatEmo_Daniya_04.png"
     }
-  ]
+  ],
+  "tts": {
+    "fish": "caa0d59b603249b883f12d0a77cce1ad",
+    "voices": [
+      {
+        "id": "default",
+        "label": "默认音色",
+        "lang": "zh",
+        "file": "voices/TTS.wav"
+      }
+    ]
+  }
 }

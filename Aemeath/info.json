@@ -6,5 +6,16 @@
     "description": {
         "en": "",
         "cn": "学位证锐意补办中……Ow<"
+    },
+    "tts": {
+        "fish": "50108f5c1e494ea08d07415b5e675ae8",
+        "voices": [
+            {
+                "id": "default",
+                "label": "默认音色",
+                "lang": "zh",
+                "file": "voices/TTS.wav"
+            }
+        ]
     }
 }

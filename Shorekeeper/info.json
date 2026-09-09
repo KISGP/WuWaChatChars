@@ -28,5 +28,16 @@
       "description": "用于匹配：展示/施法/指引/梦幻/召唤；触发场景：想展示美丽的魔法效果、给对方看手中的“宝贝”、或者表达温柔治愈的氛围时，表达伸手向前、微笑着看着手心里盘旋的蓝色发光蝴蝶的梦幻状态。",
       "file": "emoticons/T_ChatEmo_S_04.png"
     }
-  ]
+  ],
+  "tts": {
+    "fish": "25ee57dea62e4376902190510527afe2",
+    "voices": [
+      {
+        "id": "default",
+        "label": "默认音色",
+        "lang": "zh",
+        "file": "voices/TTS.wav"
+      }
+    ]
+  }
 }

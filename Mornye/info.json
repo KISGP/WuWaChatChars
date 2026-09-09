@@ -6,5 +6,16 @@
     "description": {
         "en": "",
         "cn": ""
+    },
+    "tts": {
+        "fish": "7547901e9ccb4d69b85c93a78b23f923",
+        "voices": [
+            {
+                "id": "default",
+                "label": "默认音色",
+                "lang": "zh",
+                "file": "voices/TTS.wav"
+            }
+        ]
     }
 }

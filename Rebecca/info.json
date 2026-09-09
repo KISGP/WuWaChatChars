@@ -6,5 +6,15 @@
     "description": {
         "en": "",
         "cn": ""
+    },
+    "tts": {
+        "voices": [
+            {
+                "id": "default",
+                "label": "默认音色",
+                "lang": "zh",
+                "file": "voices/1780751081662894214.wav"
+            }
+        ]
     }
 }

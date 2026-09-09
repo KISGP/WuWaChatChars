@@ -73,5 +73,15 @@
       "description": "用于匹配：打招呼/欢迎/再见/热情；触发场景：刚进群、遇到熟人、开心迎接，或者告别离场时，表达睁大眼睛面带笑容，开心举起一只手摇晃打招呼的热情状态。",
       "file": "emoticons/T_ChatEmo_Xuanling_04.png"
     }
-  ]
+  ],
+  "tts": {
+    "voices": [
+      {
+        "id": "default",
+        "label": "默认音色",
+        "lang": "zh",
+        "file": "voices/1783509847327489630.wav"
+      }
+    ]
+  }
 }

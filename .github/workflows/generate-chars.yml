@@ -21,17 +21,17 @@ jobs:
         with:
           node-version: 20
 
-      - name: Generate chars.json
-        run: node scripts/generate-chars.mjs
+      - name: Generate character index
+        run: node .scripts/generate-chars.mjs
 
       - name: Commit generated index
         run: |
-          if git diff --quiet -- chars.json; then
-            echo "chars.json is up to date"
+          if git diff --quiet -- index.json; then
+            echo "index.json is up to date"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add chars.json
+          git add index.json
           git commit -m "chore: update character index"
           git push

@@ -1,0 +1,20 @@
+{
+  "name": {
+    "en": "Encore",
+    "cn": "安可"
+  },
+  "description": {
+    "en": "",
+    "cn": ""
+  },
+  "tts": {
+    "voices": [
+      {
+        "id": "default",
+        "label": "默认音色",
+        "lang": "zh",
+        "file": "voices/1732516028892454146.wav"
+      }
+    ]
+  }
+}

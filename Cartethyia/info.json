@@ -6,5 +6,16 @@
     "description": {
         "en": "",
         "cn": "修行中"
+    },
+    "tts": {
+        "fish": "0400c1c77c7f40f89c9ba920ef501823",
+        "voices": [
+            {
+                "id": "default",
+                "label": "默认音色",
+                "lang": "zh",
+                "file": "voices/TTS.wav"
+            }
+        ]
     }
 }
