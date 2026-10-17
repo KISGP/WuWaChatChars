@@ -539,6 +539,56 @@
       "avatar": "Danjin/avatar.png",
       "cardBg": "Danjin/cardBg.png",
       "prompt": "Danjin/prompt.md",
+      "tts": {
+        "voices": [
+          {
+            "id": "default",
+            "label": "默认音色",
+            "lang": "zh",
+            "file": "voices/1732939188591157559.wav"
+          }
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Encore",
+        "cn": "安可"
+      },
+      "description": {
+        "en": "",
+        "cn": ""
+      },
+      "id": "Encore",
+      "updateAt": "2026-09-09T21:22:02+08:00",
+      "avatar": "Encore/avatar.png",
+      "cardBg": "Encore/cardBg.png",
+      "prompt": "Encore/prompt.md",
+      "tts": {
+        "voices": [
+          {
+            "id": "default",
+            "label": "默认音色",
+            "lang": "zh",
+            "file": "voices/1732516028892454146.wav"
+          }
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Galbrena",
+        "cn": "嘉贝莉娜"
+      },
+      "description": {
+        "en": "",
+        "cn": ""
+      },
+      "id": "Danjin",
+      "updateAt": "2026-09-09T21:22:02+08:00",
+      "avatar": "Danjin/avatar.png",
+      "cardBg": "Danjin/cardBg.png",
+      "prompt": "Danjin/prompt.md",
       "pixActivity": "Danjin/T_ActivityRoleDanjin.png",
       "rolePile": "Danjin/T_IconRole_Pile_micai_UI.png",
       "tts": {
@@ -675,8 +725,11 @@
       "avatar": "Jianxin/avatar.png",
       "cardBg": "Jianxin/cardBg.png",
       "prompt": "Jianxin/prompt.md",
+<<<<<<< HEAD
       "pixActivity": "Jianxin/T_ActivityRoleJianxin.png",
       "rolePile": "Jianxin/T_IconRole_Pile_jiexin_UI.png",
+=======
+>>>>>>> 09311ec6b207da861b87dd37f70975dfabb220ee
       "tts": {
         "voices": [
           {
@@ -1506,15 +1559,22 @@
       },
       "description": {
         "en": "",
+<<<<<<< HEAD
         "cn": "出差中,暂时不在今州。大家别担心,我一切安好。"
+=======
+        "cn": ""
+>>>>>>> 09311ec6b207da861b87dd37f70975dfabb220ee
       },
       "id": "Zhezhi",
       "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Zhezhi/avatar.png",
       "cardBg": "Zhezhi/cardBg.png",
       "prompt": "Zhezhi/prompt.md",
+<<<<<<< HEAD
       "pixActivity": "Zhezhi/T_ActivityRoleZhezhi.png",
       "rolePile": "Zhezhi/T_IconRole_Pile_zhezhi_UI.png",
+=======
+>>>>>>> 09311ec6b207da861b87dd37f70975dfabb220ee
       "tts": {
         "voices": [
           {
