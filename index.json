@@ -471,11 +471,12 @@
         "cn": ""
       },
       "id": "Chixia",
-      "updateAt": "2026-10-17T15:51:07+08:00",
+      "updateAt": "2026-10-17T16:55:59+08:00",
       "avatar": "Chixia/avatar.png",
       "cardBg": "Chixia/cardBg.png",
       "prompt": "Chixia/prompt.md",
       "pixActivity": "Chixia/T_ActivityRoleZhixia.png",
+      "rolePile": "Chixia/T_IconRole_Pile_maxiaofang_UI.png",
       "tts": {
         "voices": [
           {
@@ -883,7 +884,8 @@
         "cn": ""
       },
       "id": "Lingyang",
-      "updateAt": "2026-10-17T15:51:07+08:00",
+      "updateAt": "2026-10-17T16:55:59+08:00",
+      "avatar": "Lingyang/avatar.png",
       "cardBg": "Lingyang/cardBg.png",
       "prompt": "Lingyang/prompt.md",
       "pixActivity": "Lingyang/T_ActivityRoleLingyang.png",
