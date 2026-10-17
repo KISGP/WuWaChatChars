@@ -1,0 +1,20 @@
+{
+  "name": {
+    "en": "Jiyan",
+    "cn": "忌炎"
+  },
+  "description": {
+    "en": "",
+    "cn": "岂日无衣,与子同袍。"
+  },
+  "tts": {
+    "voices": [
+      {
+        "id": "default",
+        "label": "默认音色",
+        "lang": "zh",
+        "file": "voices/1735752763909113851.wav"
+      }
+    ]
+  }
+}

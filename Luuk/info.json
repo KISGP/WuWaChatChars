@@ -1,0 +1,20 @@
+{
+  "name": {
+    "en": "LUUK HERSSEN",
+    "cn": "陆·赫斯"
+  },
+  "description": {
+    "en": "",
+    "cn": "校医室的门常开，来颗糖吗？"
+  },
+  "tts": {
+    "voices": [
+      {
+        "id": "default",
+        "label": "默认音色",
+        "lang": "zh",
+        "file": "voices/1771943265375134022.wav"
+      }
+    ]
+  }
+}

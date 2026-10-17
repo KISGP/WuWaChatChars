@@ -10,10 +10,12 @@
         "cn": "学位证锐意补办中……Ow<"
       },
       "id": "Aemeath",
-      "updateAt": "2026-08-26T21:23:34+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Aemeath/avatar.png",
       "cardBg": "Aemeath/cardBg.png",
       "prompt": "Aemeath/prompt.md",
+      "pixActivity": "Aemeath/T_ActivityRoleAimisi.png",
+      "rolePile": "Aemeath/T_IconRole_Pile_Aimisi_UI.png",
       "tts": {
         "fish": "50108f5c1e494ea08d07415b5e675ae8",
         "voices": [
@@ -33,13 +35,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "重建事务繁忙,留言漏回请催我,急事总督宫面谈。"
       },
       "id": "Augusta",
-      "updateAt": "2026-08-29T13:07:10+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Augusta/avatar.png",
       "cardBg": "Augusta/cardBg.png",
       "prompt": "Augusta/prompt.md",
+      "pixActivity": "Augusta/T_ActivityRoleaogusita.png",
+      "rolePile": "Augusta/T_IconRole_Pile_aogusita_UI.png",
       "tts": {
         "voices": [
           {
@@ -61,10 +65,12 @@
         "cn": ""
       },
       "id": "Baizhi",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Baizhi/avatar.png",
       "cardBg": "Baizhi/cardBg.png",
       "prompt": "Baizhi/prompt.md",
+      "pixActivity": "Baizhi/T_ActivityRoleBailian.png",
+      "rolePile": "Baizhi/T_IconRole_Pile_bailian_UI.png",
       "tts": {
         "voices": [
           {
@@ -128,10 +134,12 @@
         "cn": ""
       },
       "id": "Buling",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Buling/avatar.png",
       "cardBg": "Buling/cardBg.png",
       "prompt": "Buling/prompt.md",
+      "pixActivity": "Buling/T_ActivityRoleBuling.png",
+      "rolePile": "Buling/T_IconRole_Pile_Buling_UI.png",
       "tts": {
         "voices": [
           {
@@ -153,10 +161,12 @@
         "cn": ""
       },
       "id": "Camellia",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Camellia/avatar.png",
       "cardBg": "Camellia/cardBg.png",
       "prompt": "Camellia/prompt.md",
+      "pixActivity": "Camellia/T_ActivityRoleChun.png",
+      "rolePile": "Camellia/T_IconRole_Pile_chun_UI.png",
       "tts": {
         "voices": [
           {
@@ -197,13 +207,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "特效药批发"
       },
       "id": "Cantarella",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Cantarella/avatar.png",
       "cardBg": "Cantarella/cardBg.png",
       "prompt": "Cantarella/prompt.md",
+      "pixActivity": "Cantarella/T_ActivityRoleKanteleila.png",
+      "rolePile": "Cantarella/T_IconRole_Pile_kanteleila_UI.png",
       "tts": {
         "voices": [
           {
@@ -222,13 +234,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "谈生意,还是交朋友 ...... 以莫塔里的名义,合作愉快。"
       },
       "id": "Carlotta",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Carlotta/avatar.png",
       "cardBg": "Carlotta/cardBg.png",
       "prompt": "Carlotta/prompt.md",
+      "pixActivity": "Carlotta/T_ActivityRoleKelaita.png",
+      "rolePile": "Carlotta/T_IconRole_Pile_kelaita_UI.png",
       "tts": {
         "voices": [
           {
@@ -272,10 +286,12 @@
         "cn": "修行中"
       },
       "id": "Cartethyia",
-      "updateAt": "2026-08-26T21:23:34+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Cartethyia/avatar.png",
       "cardBg": "Cartethyia/cardBg.png",
       "prompt": "Cartethyia/prompt.md",
+      "pixActivity": "Cartethyia/T_ActivityRoleKatixiya.png",
+      "rolePile": "Cartethyia/T_IconRole_Pile_katixiya_UI.png",
       "tts": {
         "fish": "0400c1c77c7f40f89c9ba920ef501823",
         "voices": [
@@ -298,10 +314,12 @@
         "cn": ""
       },
       "id": "Changli",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Changli/avatar.png",
       "cardBg": "Changli/cardBg.png",
       "prompt": "Changli/prompt.md",
+      "pixActivity": "Changli/T_ActivityRoleChangli.png",
+      "rolePile": "Changli/T_IconRole_Pile_changli_UI.png",
       "tts": {
         "voices": [
           {
@@ -342,13 +360,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "普通学生(复课版)"
       },
       "id": "Chisa",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Chisa/avatar.png",
       "cardBg": "Chisa/cardBg.png",
       "prompt": "Chisa/prompt.md",
+      "pixActivity": "Chisa/T_ActivityRoleQianxiao.png",
+      "rolePile": "Chisa/T_IconRole_Pile_Qianxiao_UI.png",
       "tts": {
         "voices": [
           {
@@ -370,10 +390,11 @@
         "cn": ""
       },
       "id": "Chixia",
-      "updateAt": "2026-09-01T22:16:38+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Chixia/avatar.png",
       "cardBg": "Chixia/cardBg.png",
       "prompt": "Chixia/prompt.md",
+      "pixActivity": "Chixia/T_ActivityRoleZhixia.png",
       "tts": {
         "voices": [
           {
@@ -437,10 +458,12 @@
         "cn": ""
       },
       "id": "Ciaccona",
-      "updateAt": "2026-08-29T13:07:10+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Ciaccona/avatar.png",
       "cardBg": "Ciaccona/cardBg.png",
       "prompt": "Ciaccona/prompt.md",
+      "pixActivity": "Ciaccona/T_ActivityRoleXiakong.png",
+      "rolePile": "Ciaccona/T_IconRole_Pile_xiakong_UI.png",
       "tts": {
         "voices": [
           {
@@ -462,10 +485,12 @@
         "cn": ""
       },
       "id": "Daniya",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Daniya/avatar.png",
       "cardBg": "Daniya/cardBg.png",
       "prompt": "Daniya/prompt.md",
+      "pixActivity": "Daniya/T_ActivityRoleDaNiYa.png",
+      "rolePile": "Daniya/T_IconRole_Pile_daniya_UI.png",
       "tts": {
         "fish": "caa0d59b603249b883f12d0a77cce1ad",
         "voices": [
@@ -502,18 +527,74 @@
     },
     {
       "name": {
-        "en": "Galbrena",
-        "cn": "嘉贝莉娜"
+        "en": "Danjin",
+        "cn": "丹瑾"
       },
       "description": {
         "en": "",
         "cn": ""
       },
+      "id": "Danjin",
+      "updateAt": "2026-09-09T21:22:02+08:00",
+      "avatar": "Danjin/avatar.png",
+      "cardBg": "Danjin/cardBg.png",
+      "prompt": "Danjin/prompt.md",
+      "pixActivity": "Danjin/T_ActivityRoleDanjin.png",
+      "rolePile": "Danjin/T_IconRole_Pile_micai_UI.png",
+      "tts": {
+        "voices": [
+          {
+            "id": "default",
+            "label": "默认音色",
+            "lang": "zh",
+            "file": "voices/1732939188591157559.wav"
+          }
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Encore",
+        "cn": "安可"
+      },
+      "description": {
+        "en": "",
+        "cn": ""
+      },
+      "id": "Encore",
+      "updateAt": "2026-09-09T21:22:02+08:00",
+      "avatar": "Encore/avatar.png",
+      "cardBg": "Encore/cardBg.png",
+      "prompt": "Encore/prompt.md",
+      "pixActivity": "Encore/T_ActivityRoleAnke.png",
+      "rolePile": "Encore/T_IconRole_Pile_anke_UI.png",
+      "tts": {
+        "voices": [
+          {
+            "id": "default",
+            "label": "默认音色",
+            "lang": "zh",
+            "file": "voices/1732516028892454146.wav"
+          }
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Galbrena",
+        "cn": "嘉贝莉娜"
+      },
+      "description": {
+        "en": "",
+        "cn": "全职猎魔,在线接单"
+      },
       "id": "Galbrena",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Galbrena/avatar.png",
       "cardBg": "Galbrena/cardBg.png",
       "prompt": "Galbrena/prompt.md",
+      "pixActivity": "Galbrena/T_ActivityRoleJiabeilina.png",
+      "rolePile": "Galbrena/T_IconRole_Pile_jiabeilina_UI.png",
       "tts": {
         "voices": [
           {
@@ -532,13 +613,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "请输入文本"
       },
       "id": "Hiyuki",
-      "updateAt": "2026-08-29T13:07:10+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Hiyuki/avatar.png",
       "cardBg": "Hiyuki/cardBg.png",
       "prompt": "Hiyuki/prompt.md",
+      "pixActivity": "Hiyuki/T_ActivityRoleFeiXue.png",
+      "rolePile": "Hiyuki/T_IconRole_Pile_FeiXue_UI.png",
       "tts": {
         "fish": "d741449a67614cedbe1701ef4c09ae14",
         "voices": [
@@ -558,13 +641,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "没印象的话就重新认识吧,尤诺 ..... 这次要记好咯。"
       },
       "id": "Iuno",
-      "updateAt": "2026-08-29T13:07:10+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Iuno/avatar.png",
       "cardBg": "Iuno/cardBg.png",
       "prompt": "Iuno/prompt.md",
+      "pixActivity": "Iuno/T_ActivityRoleyounuo.png",
+      "rolePile": "Iuno/T_IconRole_Pile_younuo_UI.png",
       "tts": {
         "voices": [
           {
@@ -572,6 +657,33 @@
             "label": "默认音色",
             "lang": "zh",
             "file": "voices/TTS.wav"
+          }
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Jianxin",
+        "cn": "鉴心"
+      },
+      "description": {
+        "en": "",
+        "cn": ""
+      },
+      "id": "Jianxin",
+      "updateAt": "2026-09-09T21:22:02+08:00",
+      "avatar": "Jianxin/avatar.png",
+      "cardBg": "Jianxin/cardBg.png",
+      "prompt": "Jianxin/prompt.md",
+      "pixActivity": "Jianxin/T_ActivityRoleJianxin.png",
+      "rolePile": "Jianxin/T_IconRole_Pile_jiexin_UI.png",
+      "tts": {
+        "voices": [
+          {
+            "id": "default",
+            "label": "默认音色",
+            "lang": "zh",
+            "file": "voices/1732542790541821204.wav"
           }
         ]
       }
@@ -586,10 +698,12 @@
         "cn": ""
       },
       "id": "Jinxi",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Jinxi/avatar.png",
       "cardBg": "Jinxi/cardBg.png",
       "prompt": "Jinxi/prompt.md",
+      "pixActivity": "Jinxi/T_ActivityRoleJinxi.png",
+      "rolePile": "Jinxi/T_IconRole_Pile_jinxi_UI.png",
       "tts": {
         "fish": "17d05621aa4c483fa2ce75db3cf37d86",
         "voices": [
@@ -631,13 +745,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "风格在言语之前表达。"
       },
       "id": "Lucilla",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Lucilla/avatar.png",
       "cardBg": "Lucilla/cardBg.png",
       "prompt": "Lucilla/prompt.md",
+      "pixActivity": "Lucilla/T_ActivityRoleLuoSeLa.png",
+      "rolePile": "Lucilla/T_IconRole_Pile_luosela_UI.png",
       "tts": {
         "voices": [
           {
@@ -681,10 +797,12 @@
         "cn": ""
       },
       "id": "Lupa",
-      "updateAt": "2026-08-26T21:23:34+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Lupa/avatar.png",
       "cardBg": "Lupa/cardBg.png",
       "prompt": "Lupa/prompt.md",
+      "pixActivity": "Lupa/T_ActivityRoleLupa.png",
+      "rolePile": "Lupa/T_IconRole_Pile_lupa_UI.png",
       "tts": {
         "fish": "658ffd60f30f4f09b76056db548f20a7",
         "voices": [
@@ -707,10 +825,12 @@
         "cn": ""
       },
       "id": "Luxi",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Luxi/avatar.png",
       "cardBg": "Luxi/cardBg.png",
       "prompt": "Luxi/prompt.md",
+      "pixActivity": "Luxi/T_ActivityRoleLuXi.png",
+      "rolePile": "Luxi/T_IconRole_Pile_luxi_UI.png",
       "tts": {
         "voices": [
           {
@@ -729,13 +849,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "请支持科考摩托百日训练E=E=E=E=r(*`ω')-"
       },
       "id": "Lynae",
-      "updateAt": "2026-08-29T13:07:10+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Lynae/avatar.png",
       "cardBg": "Lynae/cardBg.png",
       "prompt": "Lynae/prompt.md",
+      "pixActivity": "Lynae/T_ActivityRoleLinnai.png",
+      "rolePile": "Lynae/T_IconRole_Pile_Linnai_UI.png",
       "tts": {
         "voices": [
           {
@@ -754,13 +876,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "消息都会回复的,未回请稍等。"
       },
       "id": "Mornye",
-      "updateAt": "2026-08-29T13:07:10+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Mornye/avatar.png",
       "cardBg": "Mornye/cardBg.png",
       "prompt": "Mornye/prompt.md",
+      "pixActivity": "Mornye/T_ActivityRoleMoning.png",
+      "rolePile": "Mornye/T_IconRole_Pile_Moning_UI.png",
       "tts": {
         "fish": "7547901e9ccb4d69b85c93a78b23f923",
         "voices": [
@@ -783,10 +907,12 @@
         "cn": ""
       },
       "id": "Phoebe",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Phoebe/avatar.png",
       "cardBg": "Phoebe/cardBg.png",
       "prompt": "Phoebe/prompt.md",
+      "pixActivity": "Phoebe/T_ActivityRoleFeibi.png",
+      "rolePile": "Phoebe/T_IconRole_Pile_Feibi_UI.png",
       "tts": {
         "voices": [
           {
@@ -808,10 +934,12 @@
         "cn": ""
       },
       "id": "Phrolova",
-      "updateAt": "2026-08-29T13:07:10+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Phrolova/avatar.png",
       "cardBg": "Phrolova/cardBg.png",
       "prompt": "Phrolova/prompt.md",
+      "pixActivity": "Phrolova/T_ActivityRoleFuluoluo.png",
+      "rolePile": "Phrolova/T_IconRole_Pile_fuluoluo_UI.png",
       "tts": {
         "voices": [
           {
@@ -830,13 +958,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "近来学会了飞讯传书。"
       },
       "id": "Qingxiao",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Qingxiao/avatar.png",
       "cardBg": "Qingxiao/cardBg.png",
       "prompt": "Qingxiao/prompt.md",
+      "pixActivity": "Qingxiao/T_ActivityRoleQingXiao.png",
+      "rolePile": "Qingxiao/T_IconRole_Pile_qingxiao_UI.png",
       "tts": {
         "voices": [
           {
@@ -858,10 +988,12 @@
         "cn": ""
       },
       "id": "Rebecca",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Rebecca/avatar.png",
       "cardBg": "Rebecca/cardBg.png",
       "prompt": "Rebecca/prompt.md",
+      "pixActivity": "Rebecca/T_ActivityRoleLiBeiKa.png",
+      "rolePile": "Rebecca/T_IconRole_Pile_LiBeiKa_UI.png",
       "tts": {
         "voices": [
           {
@@ -883,10 +1015,12 @@
         "cn": ""
       },
       "id": "Roccia",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Roccia/avatar.png",
       "cardBg": "Roccia/cardBg.png",
       "prompt": "Roccia/prompt.md",
+      "pixActivity": "Roccia/T_ActivityRoleLuokeke.png",
+      "rolePile": "Roccia/T_IconRole_Pile_luokeke_UI.png",
       "tts": {
         "voices": [
           {
@@ -930,10 +1064,12 @@
         "cn": ""
       },
       "id": "Sanhua",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Sanhua/avatar.png",
       "cardBg": "Sanhua/cardBg.png",
       "prompt": "Sanhua/prompt.md",
+      "pixActivity": "Sanhua/T_ActivityRoleSanhua.png",
+      "rolePile": "Sanhua/T_IconRole_Pile_shanhua_UI.png",
       "tts": {
         "voices": [
           {
@@ -974,13 +1110,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "黑海岸接口人,嗯 ...... 代行中"
       },
       "id": "Shorekeeper",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Shorekeeper/avatar.png",
       "cardBg": "Shorekeeper/cardBg.png",
       "prompt": "Shorekeeper/prompt.md",
+      "pixActivity": "Shorekeeper/T_ActivityRoleShouanren.png",
+      "rolePile": "Shorekeeper/T_IconRole_Pile_Shouanren_UI.png",
       "tts": {
         "fish": "25ee57dea62e4376902190510527afe2",
         "voices": [
@@ -1022,13 +1160,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "嘤嘤鹦真的不是雪衫帝小时候!"
       },
       "id": "Sigrika",
-      "updateAt": "2026-08-29T13:07:10+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Sigrika/avatar.png",
       "cardBg": "Sigrika/cardBg.png",
       "prompt": "Sigrika/prompt.md",
+      "pixActivity": "Sigrika/T_ActivityRoleXigelika.png",
+      "rolePile": "Sigrika/T_IconRole_Pile_xigelika_UI.png",
       "tts": {
         "fish": "2934bcdacee942ffb8c449f12ae8d4c6",
         "voices": [
@@ -1048,13 +1188,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "AAA信息咨询服务。"
       },
       "id": "Suisui",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Suisui/avatar.png",
       "cardBg": "Suisui/cardBg.png",
       "prompt": "Suisui/prompt.md",
+      "pixActivity": "Suisui/T_ActivityRoleSuiSui.png",
+      "rolePile": "Suisui/T_IconRole_Pile_SuiSui_UI.png",
       "tts": {
         "voices": [
           {
@@ -1098,10 +1240,12 @@
         "cn": ""
       },
       "id": "Verina",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Verina/avatar.png",
       "cardBg": "Verina/cardBg.png",
       "prompt": "Verina/prompt.md",
+      "pixActivity": "Verina/T_ActivityRoleJueyuan.png",
+      "rolePile": "Verina/T_IconRole_Pile_jueyuan_UI.png",
       "tts": {
         "voices": [
           {
@@ -1145,10 +1289,12 @@
         "cn": ""
       },
       "id": "Yangyang",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Yangyang/avatar.png",
       "cardBg": "Yangyang/cardBg.png",
       "prompt": "Yangyang/prompt.md",
+      "pixActivity": "Yangyang/T_ActivityRoleXuanLing.png",
+      "rolePile": "Yangyang/T_IconRole_Pile_XuanLing_UI.png",
       "tts": {
         "voices": [
           {
@@ -1237,10 +1383,12 @@
         "cn": ""
       },
       "id": "Yinlin",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Yinlin/avatar.png",
       "cardBg": "Yinlin/cardBg.png",
       "prompt": "Yinlin/prompt.md",
+      "pixActivity": "Yinlin/T_ActivityRoleYinlin.png",
+      "rolePile": "Yinlin/T_IconRole_Pile_yinlin_UI.png",
       "tts": {
         "voices": [
           {
@@ -1284,10 +1432,12 @@
         "cn": ""
       },
       "id": "Youhu",
-      "updateAt": "2026-09-01T19:57:06+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Youhu/avatar.png",
       "cardBg": "Youhu/cardBg.png",
       "prompt": "Youhu/prompt.md",
+      "pixActivity": "Youhu/T_ActivityRoleYouhu.png",
+      "rolePile": "Youhu/T_IconRole_Pile_Youhu_UI.png",
       "tts": {
         "voices": [
           {
@@ -1328,13 +1478,15 @@
       },
       "description": {
         "en": "",
-        "cn": ""
+        "cn": "有事情留言,急事通讯。"
       },
       "id": "Zani",
-      "updateAt": "2026-08-26T21:23:34+08:00",
+      "updateAt": "2026-09-09T21:22:02+08:00",
       "avatar": "Zani/avatar.png",
       "cardBg": "Zani/cardBg.png",
       "prompt": "Zani/prompt.md",
+      "pixActivity": "Zani/T_ActivityRoleZanni.png",
+      "rolePile": "Zani/T_IconRole_Pile_zanni_UI.png",
       "tts": {
         "fish": "85e5c7e0625642cc86c76942e1610fa0",
         "voices": [
@@ -1343,6 +1495,33 @@
             "label": "默认音色",
             "lang": "zh",
             "file": "voices/TTS.wav"
+          }
+        ]
+      }
+    },
+    {
+      "name": {
+        "en": "Zhezhi",
+        "cn": "折枝"
+      },
+      "description": {
+        "en": "",
+        "cn": "出差中,暂时不在今州。大家别担心,我一切安好。"
+      },
+      "id": "Zhezhi",
+      "updateAt": "2026-09-09T21:22:02+08:00",
+      "avatar": "Zhezhi/avatar.png",
+      "cardBg": "Zhezhi/cardBg.png",
+      "prompt": "Zhezhi/prompt.md",
+      "pixActivity": "Zhezhi/T_ActivityRoleZhezhi.png",
+      "rolePile": "Zhezhi/T_IconRole_Pile_zhezhi_UI.png",
+      "tts": {
+        "voices": [
+          {
+            "id": "default",
+            "label": "默认音色",
+            "lang": "zh",
+            "file": "voices/1732537896409251167.wav"
           }
         ]
       }

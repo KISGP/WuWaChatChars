@@ -1,0 +1,20 @@
+{
+  "name": {
+    "en": "Calcharo",
+    "cn": "卡卡罗"
+  },
+  "description": {
+    "en": "",
+    "cn": ""
+  },
+  "tts": {
+    "voices": [
+      {
+        "id": "default",
+        "label": "默认音色",
+        "lang": "zh",
+        "file": "voices/1732547175343401148.wav"
+      }
+    ]
+  }
+}

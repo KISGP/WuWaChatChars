@@ -1,0 +1,20 @@
+{
+  "name": {
+    "en": "Qiuyuan",
+    "cn": "仇远"
+  },
+  "description": {
+    "en": "",
+    "cn": "签名 语音输入"
+  },
+  "tts": {
+    "voices": [
+      {
+        "id": "default",
+        "label": "默认音色",
+        "lang": "zh",
+        "file": "voices/1761722509271660711.wav"
+      }
+    ]
+  }
+}

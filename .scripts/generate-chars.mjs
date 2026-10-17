@@ -6,7 +6,6 @@ import { spawnSync } from 'node:child_process';
 const root = process.argv[2] ? path.resolve(process.argv[2]) : process.cwd();
 const outputFile = path.join(root, 'index.json');
 const assetFiles = [
-  ['avatar', 'avatar.png'],
   ['cardBg', 'cardBg.png'],
   ['prompt', 'prompt.md'],
 ];
@@ -51,6 +50,23 @@ function isSafeRelativePath(value) {
   return value
     .split('/')
     .every((segment) => segment && segment !== '.' && segment !== '..' && !segment.includes('\\'));
+}
+
+// 按文件名前缀在角色根目录匹配唯一的 PNG：0 张返回 null（调用方省略字段），
+// 多张视为配置遗漏报错——和「未登记 WAV」同一处理哲学。
+async function matchUniqueImage(directory, characterPath, prefix, field) {
+  const entries = await readdir(characterPath, { withFileTypes: true });
+  const matches = entries
+    .filter(
+      (file) =>
+        file.isFile() && file.name.startsWith(prefix) && file.name.toLowerCase().endsWith('.png')
+    )
+    .map((file) => file.name)
+    .sort();
+  if (matches.length > 1) {
+    throw new Error(`${directory} 匹配到多张 ${field} 图（${matches.join('、')}），请清理到只剩一张`);
+  }
+  return matches[0] ?? null;
 }
 
 async function parseInfo(directory, infoPath) {
@@ -195,10 +211,21 @@ async function main() {
       id: directory,
       updateAt: gitUpdateAt(directory),
     };
+    // avatar：显式 avatar.png 优先于通配匹配，缺失时回退唯一的 T_IconRoleHeadCircle*.png。
+    const avatarFallback = await matchUniqueImage(directory, characterPath, 'T_IconRoleHeadCircle', 'avatar');
+    const avatarFile = existsSync(path.join(characterPath, 'avatar.png')) ? 'avatar.png' : avatarFallback;
+    if (avatarFile) character.avatar = `${directory}/${avatarFile}`;
     for (const [field, file] of assetFiles) {
       if (existsSync(path.join(characterPath, file))) {
         character[field] = `${directory}/${file}`;
       }
+    }
+    for (const [field, prefix] of [
+      ['pixActivity', 'T_ActivityRole'],
+      ['rolePile', 'T_IconRole_Pile'],
+    ]) {
+      const file = await matchUniqueImage(directory, characterPath, prefix, field);
+      if (file) character[field] = `${directory}/${file}`;
     }
     const tts = await resolveTts(directory, characterPath, info);
     if (tts) character.tts = tts;
