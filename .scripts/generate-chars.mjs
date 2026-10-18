@@ -85,6 +85,21 @@ async function parseInfo(directory, infoPath) {
   if (!info.description || typeof info.description !== 'object' || !('en' in info.description) || !('cn' in info.description)) {
     throw new Error(`${directory}/info.json 缺少 description.en 或 description.cn`);
   }
+  // 两个 wiki 字段是必填项：缺失说明该角色还没跑过 fetch-wiki-info.mjs。
+  for (const field of ['information', 'resonancePower']) {
+    const value = info[field];
+    if (!value || typeof value !== 'object' || Array.isArray(value) || !('en' in value) || !('cn' in value)) {
+      throw new Error(
+        `${directory}/info.json 缺少 ${field}.en 或 ${field}.cn，可运行 node .scripts/fetch-wiki-info.mjs 补齐`
+      );
+    }
+    if (typeof value.cn !== 'string' || !value.cn.trim()) {
+      throw new Error(`${directory}/info.json 的 ${field}.cn 必须是非空字符串`);
+    }
+    if (typeof value.en !== 'string') {
+      throw new Error(`${directory}/info.json 的 ${field}.en 必须是字符串`);
+    }
+  }
   if (info.tts !== undefined) {
     if (!info.tts || typeof info.tts !== 'object' || Array.isArray(info.tts)) {
       throw new Error(`${directory}/info.json 的 tts 必须是对象`);
@@ -208,6 +223,8 @@ async function main() {
     const character = {
       name: info.name,
       description: info.description,
+      information: info.information,
+      resonancePower: info.resonancePower,
       id: directory,
       updateAt: gitUpdateAt(directory),
     };

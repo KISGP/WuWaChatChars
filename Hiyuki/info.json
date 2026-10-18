@@ -17,5 +17,13 @@
                 "file": "voices/TTS.wav"
             }
         ]
+    },
+    "information": {
+        "en": "",
+        "cn": "来自苇原的灼樱巫女，现今以特别对策组唯一成员的身份在拉海洛停留。"
+    },
+    "resonancePower": {
+        "en": "",
+        "cn": "预求身"
     }
 }

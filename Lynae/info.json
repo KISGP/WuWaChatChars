@@ -16,5 +16,13 @@
                 "file": "voices/TTS.wav"
             }
         ]
+    },
+    "information": {
+        "en": "",
+        "cn": "星炬学院的预科学生，个性张扬的外表下充满活力与力量。"
+    },
+    "resonancePower": {
+        "en": "",
+        "cn": "折光溢彩"
     }
 }

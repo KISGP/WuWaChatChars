@@ -9,7 +9,15 @@
 - `prompt.md`
 - `info.json`
 
-`info.json` 必须包含 `name.en`、`name.cn`、`description.en` 和 `description.cn`。
+`info.json` 必须包含 `name.en`、`name.cn`、`description.en`、`description.cn`、`information.en`、`information.cn`、`resonancePower.en`、`resonancePower.cn`。
+
+其中 `information` 是角色简介，`resonancePower` 是共鸣能力名称（不含「共鸣能力：」前缀），两者均取自库街区 wiki。新角色可用下列命令自动补齐（已存在的字段不会被覆盖）：
+
+```bash
+node .scripts/fetch-wiki-info.mjs
+```
+
+该脚本按 `name.cn` 匹配 wiki 条目，抓取结果只有中文，因此 `en` 留空字符串。
 
 可选资源与字段：
 
